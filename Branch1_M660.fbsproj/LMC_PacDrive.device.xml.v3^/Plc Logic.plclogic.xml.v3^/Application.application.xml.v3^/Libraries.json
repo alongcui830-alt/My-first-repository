@@ -1,0 +1,89 @@
+{
+  "references": {},
+  "placeholderOverrides": {
+    "Standard": "Standard, 3.5.18.0 (System)"
+  },
+  "v3Meta": {
+    "objectName": null,
+    "objectGuid": "5e2d6e03-bb82-4a4e-ad93-3340bb8892b5",
+    "objectTypeGuid": "adb5cb65-8e1d-4a00-b70a-375ea27582f3",
+    "embeddedObjectTypeGuids": [],
+    "properties": {
+      "Elau.Epas5.LibraryConfiguration.CoDeSysInterface.MappingTableObject": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Single xml:space=\"preserve\" Type=\"{c8edade9-a049-4800-a2d4-edc2b2aca694}\" Method=\"IArchivable\"><Array Name=\"LibraryMappings\" Type=\"string\"><Single Type=\"string\">CommonMotionInterface, 1.4.5.0 (Schneider Electric)</Single></Array></Single>"
+    },
+    "subObjects": {}
+  },
+  "libraryParameters": {},
+  "v3SystemLibraries": [
+    {
+      "namespace": "BPLog",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "BreakpointLogging",
+        "defaultResolution": "Breakpoint Logging Functions, * (3S - Smart Software Solutions GmbH)",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "CMM",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "CDS_MemMan",
+        "defaultResolution": "CDS_MemMan, 3.3.2.0 (3S - Smart Software Solutions GmbH)",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "DED",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "CAA Device Diagnosis",
+        "defaultResolution": "CAA Device Diagnosis, 3.5.21.0 (CAA Technical Workgroup)"
+      }
+    },
+    {
+      "namespace": "IoStandard",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "IoStandard",
+        "defaultResolution": "IoStandard, 3.5.17.0 (System)",
+        "allowUnqualifiedAccess": true,
+        "linkAllContent": true
+      }
+    },
+    {
+      "namespace": "Standard",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "Standard",
+        "defaultResolution": "Standard, * (System)",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "SystemConfiguration",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "SystemConfiguration",
+        "defaultResolution": "SystemConfiguration, 1.84.12.2 (Schneider Electric)",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "SystemConfigurationItf",
+      "libraryReference": {
+        "$type": "ManagedLibrary",
+        "libraryId": "SystemConfigurationItf, 1.76.25.0 (Schneider Electric)",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "SystemInterface",
+      "libraryReference": {
+        "$type": "ManagedLibrary",
+        "libraryId": "SystemInterface, 1.84.0.0 (Schneider Electric)",
+        "allowUnqualifiedAccess": true
+      }
+    }
+  ]
+}
