@@ -1,0 +1,24 @@
+__METADATA__
+{
+  "v3Meta": {
+    "objectGuid": "20b01e05-f863-4053-9cf6-de37e25df5d9",
+    "objectTypeGuid": "2db5746d-d284-4425-9f7f-2663a34b0ebc",
+    "embeddedObjectTypeGuids": [
+      "a9ed5b7e-75c5-4651-af16-d2c27e98cb94"
+    ],
+    "properties": {},
+    "subObjects": {}
+  }
+}
+__DECLARATION__
+TYPE ST_VisConnectorsApplicationSpecific :
+STRUCT
+	// Elements need to be in order defined by ET_VisConnectors
+	pfbControlPanel : POINTER TO FB_VisConnectorControlPanel;		//ET_VisConnectors.ControlPanel
+	pfbUnitData      : POINTER TO FB_VisConnectorUnitData;			//ET_VisConnectors.UnitData
+	pfbDiagHandler   : POINTER TO ApDiag.FB_DiagnosticHandler;		//ET_VisConnectors.DiagHandler
+	pfbPackMl        : POINTER TO FB_VisConnectorPackML;			//ET_VisConnectors.PackML
+	pfbAxisMotion    : POINTER TO FB_VisConnectorAxisMotion;		//ET_VisConnectors.AxisMotion
+	pfbAxisOverview  : POINTER TO FB_VisConnectorAxisOverview;		//ET_VisConnectors.AxisOverview
+END_STRUCT
+END_TYPE

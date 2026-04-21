@@ -1,0 +1,451 @@
+__V3_META__
+{
+  "objectGuid": "b5430773-3042-47d6-a6d3-28650a6ce532",
+  "objectTypeGuid": "63784cbb-9ba0-45e6-9d69-babf3f040511",
+  "embeddedObjectTypeGuids": [],
+  "properties": {},
+  "subObjects": {}
+}
+__V3_CONTENT__
+<?xml version="1.0" encoding="utf-8"?>
+<Single xml:space="preserve" Type="{63784cbb-9ba0-45e6-9d69-babf3f040511}" Method="IArchivable">
+  <List Name="TextList" Type="System.Collections.ArrayList">
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">807</Single>
+      <Single Name="TextDefault" Type="string"> VisManager: UnitDataFrame not connected</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">79</Single>
+      <Single Name="TextDefault" Type="string">%.2f</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">957</Single>
+      <Single Name="TextDefault" Type="string">%.3f</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">547</Single>
+      <Single Name="TextDefault" Type="string">%0.1f</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">647</Single>
+      <Single Name="TextDefault" Type="string">%d</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">376</Single>
+      <Single Name="TextDefault" Type="string">%s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">462</Single>
+      <Single Name="TextDefault" Type="string">%u</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">588</Single>
+      <Single Name="TextDefault" Type="string">&lt;</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">516</Single>
+      <Single Name="TextDefault" Type="string">&gt;</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">80</Single>
+      <Single Name="TextDefault" Type="string">Abort</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">499</Single>
+      <Single Name="TextDefault" Type="string">Acceleration</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">1024</Single>
+      <Single Name="TextDefault" Type="string">activate
+debug
+Cmds</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">1098</Single>
+      <Single Name="TextDefault" Type="string">Active</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">1287</Single>
+      <Single Name="TextDefault" Type="string">Active Msgs: %s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">405</Single>
+      <Single Name="TextDefault" Type="string">Axis error id</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">756</Single>
+      <Single Name="TextDefault" Type="string">Axis state</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">1</Single>
+      <Single Name="TextDefault" Type="string">Axis-Overview reference not set</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">925</Single>
+      <Single Name="TextDefault" Type="string">AxisMotion</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">533</Single>
+      <Single Name="TextDefault" Type="string">AxisMotion reference not set</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">924</Single>
+      <Single Name="TextDefault" Type="string">AxisOverview</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">536</Single>
+      <Single Name="TextDefault" Type="string">Category:</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">274</Single>
+      <Single Name="TextDefault" Type="string">Clear</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">22</Single>
+      <Single Name="TextDefault" Type="string">code:%s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">689</Single>
+      <Single Name="TextDefault" Type="string">Complete</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">290</Single>
+      <Single Name="TextDefault" Type="string">control Panel</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">88</Single>
+      <Single Name="TextDefault" Type="string">diag handler</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">1070</Single>
+      <Single Name="TextDefault" Type="string">DiagCode:</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">962</Single>
+      <Single Name="TextDefault" Type="string">Diagnosis-Handler reference not set</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">270</Single>
+      <Single Name="TextDefault" Type="string">DiagQuit ongoing</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">393</Single>
+      <Single Name="TextDefault" Type="string">E-Stop
+deceleration</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">239</Single>
+      <Single Name="TextDefault" Type="string">E-Stop
+jerk</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">21</Single>
+      <Single Name="TextDefault" Type="string">Enable Vis</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">656</Single>
+      <Single Name="TextDefault" Type="string">Ho-
+med</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">141</Single>
+      <Single Name="TextDefault" Type="string">Hold</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">120</Single>
+      <Single Name="TextDefault" Type="string">Id: %s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">94</Single>
+      <Single Name="TextDefault" Type="string">Jog Back</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">503</Single>
+      <Single Name="TextDefault" Type="string">Jog Forw</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">671</Single>
+      <Single Name="TextDefault" Type="string">JogMachine</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">60</Single>
+      <Single Name="TextDefault" Type="string">Manual</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">532</Single>
+      <Single Name="TextDefault" Type="string">MasterAxisWithSubUnits</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">668</Single>
+      <Single Name="TextDefault" Type="string">Message:</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">985</Single>
+      <Single Name="TextDefault" Type="string">Modulo
+neg limit | pos limit</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">325</Single>
+      <Single Name="TextDefault" Type="string">Msg:%s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">788</Single>
+      <Single Name="TextDefault" Type="string">Name</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">742</Single>
+      <Single Name="TextDefault" Type="string">Name:%s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">327</Single>
+      <Single Name="TextDefault" Type="string">No FB_AxisMotion at index: %s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">570</Single>
+      <Single Name="TextDefault" Type="string">No:</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">355</Single>
+      <Single Name="TextDefault" Type="string">OpMode:%s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">923</Single>
+      <Single Name="TextDefault" Type="string">PackML</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">401</Single>
+      <Single Name="TextDefault" Type="string">Position</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">399</Single>
+      <Single Name="TextDefault" Type="string">Producing</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">155</Single>
+      <Single Name="TextDefault" Type="string">reaction:%s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">473</Single>
+      <Single Name="TextDefault" Type="string">Reset</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">87</Single>
+      <Single Name="TextDefault" Type="string">resetting</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">885</Single>
+      <Single Name="TextDefault" Type="string">Severity:</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">417</Single>
+      <Single Name="TextDefault" Type="string">severity:%s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">424</Single>
+      <Single Name="TextDefault" Type="string">SmallUnitWithSubUnits</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">303</Single>
+      <Single Name="TextDefault" Type="string">source Id:%s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">1116</Single>
+      <Single Name="TextDefault" Type="string">Source:</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">995</Single>
+      <Single Name="TextDefault" Type="string">source:%s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">215</Single>
+      <Single Name="TextDefault" Type="string">Start</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">502</Single>
+      <Single Name="TextDefault" Type="string">State:%s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">139</Single>
+      <Single Name="TextDefault" Type="string">Stop</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">425</Single>
+      <Single Name="TextDefault" Type="string">SubUnit A</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">426</Single>
+      <Single Name="TextDefault" Type="string">SubUnit B</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">888</Single>
+      <Single Name="TextDefault" Type="string">Suspend</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">891</Single>
+      <Single Name="TextDefault" Type="string">TimeStamp:</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">207</Single>
+      <Single Name="TextDefault" Type="string">UnHold</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">421</Single>
+      <Single Name="TextDefault" Type="string">unit data</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">757</Single>
+      <Single Name="TextDefault" Type="string">Unit-Data reference not set</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">629</Single>
+      <Single Name="TextDefault" Type="string">unlimited</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">437</Single>
+      <Single Name="TextDefault" Type="string">UnSuspend</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">314</Single>
+      <Single Name="TextDefault" Type="string">v</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">911</Single>
+      <Single Name="TextDefault" Type="string">Velocity</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">418</Single>
+      <Single Name="TextDefault" Type="string">Vis Cmd lock</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">606</Single>
+      <Single Name="TextDefault" Type="string">vis cmd lock active
+(can be deactivated in control Panel)</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">2</Single>
+      <Single Name="TextDefault" Type="string">VisManager 
+not enabled</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">408</Single>
+      <Single Name="TextDefault" Type="string">VisManager: DiagHandlerFrame not connected</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">947</Single>
+      <Single Name="TextDefault" Type="string">VisManager: PackML frame not connected</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">910</Single>
+      <Single Name="TextDefault" Type="string">Visualization not enabled</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">497</Single>
+      <Single Name="TextDefault" Type="string">x: %s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">336</Single>
+      <Single Name="TextDefault" Type="string">xActive</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">298</Single>
+      <Single Name="TextDefault" Type="string">xReady</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">1522</Single>
+      <Single Name="TextDefault" Type="string">Y: %s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">42</Single>
+      <Single Name="TextDefault" Type="string">^</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+  </List>
+  <List Name="Languages" Type="System.Collections.ArrayList" />
+  <Single Name="GuidInit" Type="System.Guid">5a9d4576-baa0-4460-87de-e193e855ccd2</Single>
+  <Single Name="GuidReInit" Type="System.Guid">9830d11c-1d49-49ef-a047-6b3ad2f4ae20</Single>
+  <Single Name="GuidExitX" Type="System.Guid">5d1c7cf0-a050-4ff4-839b-c7874497b24f</Single>
+</Single>

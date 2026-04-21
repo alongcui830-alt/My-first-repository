@@ -1,0 +1,24 @@
+__METADATA__
+{
+  "v3Meta": {
+    "objectGuid": "e2d60929-f3ba-4b63-af3f-198727950dbc",
+    "objectTypeGuid": "2db5746d-d284-4425-9f7f-2663a34b0ebc",
+    "embeddedObjectTypeGuids": [
+      "a9ed5b7e-75c5-4651-af16-d2c27e98cb94"
+    ],
+    "properties": {},
+    "subObjects": {}
+  }
+}
+__DECLARATION__
+TYPE ST_500MasterAxisWithSubUnitsInputData :
+STRUCT
+	xEnable             : BOOL;
+	etCmd               : PackML.ET_Cmd;
+	etOperationMode     : ET_OperationMode;
+	xJogForw            : BOOL;
+	xJogBack            : BOOL;
+	lrJogVelocity       : LREAL := 25;
+	lrProducingVelocity : LREAL := 100;
+END_STRUCT
+END_TYPE

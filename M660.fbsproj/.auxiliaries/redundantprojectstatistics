@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectStatistics>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACjSURBVDhPxZPRDcMgDETZqXOwhkdhB3a6f74YggmozgSlvaYJlSL1pBNKYj87sgnhLiE/+qtrrb211jXuUExQOQi4huzJWbxB1CbdDYAm7xBVttBTSg55ByB/VruwQxwA8xdLwuhsdiIA/YUDw/wkwMz+AABG3HcAK5x4xt0H4CjmWLgk/LDiGOOYAjeKK8sHElfNeOb5MhHCTkopy/7psp3pCTuJcUulVYd4AAAAAElFTkSuQmCC</Data>
+    <Data Key="Name" Type="System.String">Folder</Data>
+    <Data Key="Count" Type="System.String">49</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB7SURBVDhPzZLBDcAgDAN5MDgv5so8LAEKBBHchoL41JKlPuKzkercrWKM2TLeDuXcLIA3EVGFhBAAJMH+vQKwnpBNgPd+8idgvKsBUkrVvGQLoNXDRwC9oPsIgM1/XaALFIAPsf1oAbbaC1AC4KOVlwvwj7M8QhKcQBcqBNm7wsUEQCEAAAAASUVORK5CYII=</Data>
+    <Data Key="Name" Type="System.String">PLC Logic</Data>
+    <Data Key="Count" Type="System.String">1</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACKSURBVDhPlZJRDsAgCEP58OB+eS5v5kJCnWDHtEmjAj7RKGJqrY0To36TJv+UQgCIJ6p77zOHMe53gFWAqEopzscAdLDqCgDICpsAFGROO2Anqlx7IrJ24BI5oI7XIjR+A9DcFo/3hbdCg/CY0fV+8Hcxi5G38MWYx/EawNYm/k3ZhrhOFYvivI4HNCnh5Sfz0yQAAAAASUVORK5CYII=</Data>
+    <Data Key="Name" Type="System.String">Method</Data>
+    <Data Key="Count" Type="System.String">91</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACCSURBVDhPnZABDoAgDAN5+p7GzzAghaaDITY2AaW3Skr3Kt2/VEp9AkD08RwuHoD9tzAdekNQf9+WfsgMowEOahjiIQ5S1zlnPeQA/LuugXo1We/ENYB3oLCBmTXvRNChbQM1AdZhCC1WTRTQIKfJYQOerOImsAIG5NJTVm/+wpx9ADqdjsLEYWlNAAAAAElFTkSuQmCC</Data>
+    <Data Key="Name" Type="System.String">Application Logger</Data>
+    <Data Key="Count" Type="System.String">1</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACYSURBVDhPpVMBEoAgCNvTeZo/qxOlJqzOLjpEkA3ECyAxs+OrLuDWWtEcz/4vsHfQFyU5rvyFQFXnuPILAebHAAOGCr8SGFxzxUj2HNznhaBeAQ4wg++7DX/YF4IM9Pbtjr0S1Eq6A1d116jYQb5GMjguCDgxqgQJ26ULRRB7brvL9gxiDnzXxxlM4cCi/CL57PoTN+QRdAJAuFXzOa2qYgAAAABJRU5ErkJggg==</Data>
+    <Data Key="Name" Type="System.String">Task Configuration</Data>
+    <Data Key="Count" Type="System.String">1</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABzSURBVDhPpZFBCsAwCAQ95OE55duWTdmSGIVoB7xIZyxExNBaU7u7BrKqaClCmZOKWLn3d6LItq/I+NSNrPIY4xjKXWTOEfEuQ/yORDLxlgyAeSSSI9YASMnABtLYQOkP1lfAY6cjgPIWu+WXTCCVZeLJD9rmmergR6NmAAAAAElFTkSuQmCC</Data>
+    <Data Key="Name" Type="System.String">DUT</Data>
+    <Data Key="Count" Type="System.String">52</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABzSURBVDhPtY+BCsAgCAX7dP+8YWW+nDoJdhAz5Z6rtX+hPs+Av1JXmQFE1IVyCEsSYPkK2RujAMYLGc051O14LBhiZ6l8LltVFqJ3FaGnHTsUPBH65xNsnYhSv59QEeGuf+BJTCBuOQypisi1iFyLSFl8AHY2oPyhd7zYAAAAAElFTkSuQmCC</Data>
+    <Data Key="Name" Type="System.String">Task</Data>
+    <Data Key="Count" Type="System.String">1</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB2SURBVDhPvZJRCsAgDEPz4cH75bm8maNgh2mZ1jEWCKXUPiMIDNVae8Z2PkiHOy0hBhAguLV2A6z6fQLM0t5mpRRyGmAJZh0BdKYQqwwQ9Nn+/fsEwjeGHrJPQAu+h/yQIBhCXicYMnrGj4ATfQ/w3zRjArzVBV/xMmoUgFlyAAAAAElFTkSuQmCC</Data>
+    <Data Key="Name" Type="System.String">POU</Data>
+    <Data Key="Count" Type="System.String">28</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB/SURBVDhPtZLRCcAgDETvw43cqXPky7kcoDulWEwwSo2W9uAhEn2cIFCTUuIV5PyQMvQylYiAgIGcswpk7e8bAZ9RKXuZhRAMywJp0GZLUGZFIqsVELilf7/fgMDMUbn38VAA8ht4gv8bDIAM8wY1Yl/hUbCT7wX9N13BCN7mAoafFbrPyZviAAAAAElFTkSuQmCC</Data>
+    <Data Key="Name" Type="System.String">Visualization</Data>
+    <Data Key="Count" Type="System.String">21</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACCSURBVDhPnZABDoAgDAN5+p7GzzAghaaDITY2AaW3Skr3Kt2/VEp9AkD08RwuHoD9tzAdekNQf9+WfsgMowEOahjiIQ5S1zlnPeQA/LuugXo1We/ENYB3oLCBmTXvRNChbQM1AdZhCC1WTRTQIKfJYQOerOImsAIG5NJTVm/+wpx9ADqdjsLEYWlNAAAAAElFTkSuQmCC</Data>
+    <Data Key="Name" Type="System.String">Message logger</Data>
+    <Data Key="Count" Type="System.String">1</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABfSURBVDhP7Y9RCgAhCETn6B7Nm7UUtsSo2EfQTxMDNekrAZKItMoAur36pao6cx4CuChrDn9goRPn6QizMHp9zbcAsLUCBGjDWwDBcDZ/CeAGPj/AbYA1zr3TX1D4rD66J68oA0MB1QAAAABJRU5ErkJggg==</Data>
+    <Data Key="Name" Type="System.String">Device</Data>
+    <Data Key="Count" Type="System.String">12</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABxSURBVDhP7ZNBDsAgCAT3wMP5Oa00ELrVqum1JBsPMgMHBahExGr4/rUcUDWYebYEPZgFvF3e9+AqiajC07pSwE0VVsAMV3OAAcd5mz6COVX0EFS4Tq+rTwWcLUGb/mmDX7AucI6f8aog4dEHmSXhsw6ydH8TqyzUEwAAAABJRU5ErkJggg==</Data>
+    <Data Key="Name" Type="System.String">Library Manager</Data>
+    <Data Key="Count" Type="System.String">2</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEISURBVDhPjZItDoQwEIW5IBKN6xWwKI5AUrdiT8AJ8OBRKByOE3TzlUy3HdrNTvJSOnlvfh6tKhXXdTnObductatb19WRk/zPQACWZfGnYJqm8H0cR7lQLCphGIZnkVzXEsZx9Od5nneRfd8fJGOsq+vaNU3jjDG+q+ZYax1ab5oWI4SAkYyLka/XO3Ao2Lat9ya4LaAzZL0nd+GwBkCbGEeSkf1omUhXuNeo5nlOkl3XfQ1SoZuxqvdA75ebIDa77/tgbrKbgILxFNqnG4W/8C+YgPXDeIylSTnI24CfrMrIQtLFeBtxZ4RZo0nKrxRjEXMnz+PBuKxYAlPZjS6QGRkxd/L6gX0Aif5RAZ1mRW0AAAAASUVORK5CYII=</Data>
+    <Data Key="Name" Type="System.String">Application</Data>
+    <Data Key="Count" Type="System.String">1</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADUSURBVDhPnZLBbYRQDER9oCP3NC1w3RMlIM1tDymEAnynnIns3U+ABUIy0sjW/9/PI4HZW8Mw6I7b+w/l5W+6hNwFtLqfvwXoum7jPwPW+gE8Hkqv403TtNSzs1NAe9DECDEohoTsSZFxDlhvQw2yzhEuowQm8ALQEuRGJxQ1DHlIRshgiitAS+C16T3ErGmTwdX3/TmgqRIgZOkafPUOCMDxZ8zNzRXZ+TJs6d2p5/PrGLCWU5rnuVIsdlb8fHsI2BtkOTeO47i5+wDsf9M73gD+q2/DYSWio3HehAAAAABJRU5ErkJggg==</Data>
+    <Data Key="Name" Type="System.String">GlobalTextList</Data>
+    <Data Key="Count" Type="System.String">1</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA9SURBVDhPY2CgDmj4Tx5GMeA/iZgeBsAAujj9DMCPCRiADNDliDIA2RB08SFiADpAlydoAGFMfQPIwVQAAKGAjpqtOIrSAAAAAElFTkSuQmCC</Data>
+    <Data Key="Name" Type="System.String">Project Information</Data>
+    <Data Key="Count" Type="System.String">1</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACRSURBVDhPtZLRDYAgDETvgxlYxAX5Yge3YQB3qmlisZQCGuMlFyDXvpyJwKWcMz2xzHficKUpRAAJ6FxKqQA57X4DoGOr5rdkIYTGjwHSQOsVgDOGyNkCEkjbfv+6QQLtuM1vLZ3FGP0GeojtLQtANAWMvGzAA96SvvcNANiB2btv4ACsvPw/gP1d2aO8Ar7oBHvM22sFPVEIAAAAAElFTkSuQmCC</Data>
+    <Data Key="Name" Type="System.String">Visualization Manager</Data>
+    <Data Key="Count" Type="System.String">1</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACFSURBVDhPlZJBDgAhCAM9+PA9+S5/ths21kAF1CaNinTkYClDrbX3xOhfJJc7pRAA+EVx733eYeW8AWgBIqq1Gh8DMIHWFQAQDZsANGROJ/Be5DNqeuIrgEzwNz/lnYa8AJ/FKWBnE+a9BsmonpdQBIi0hG4AJuAZ4m9qvis3R7VQXvOofZtzCOF62vvwAAAAAElFTkSuQmCC</Data>
+    <Data Key="Name" Type="System.String">Action</Data>
+    <Data Key="Count" Type="System.String">36</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB5SURBVDhPlZJRCoAwDEPzsbPvXLuZEiRSZ1vjg4Bj3Us/BADMOQ8nnE3h5RdrrVoiQWzboUAz+/tbAFzDmWCM8Ygl4DmGcJNSoMlsA9EK4ork/wYGrWBvjM36aAUlwdQKumZL8CIxtoK0WTgCh1LACzcvQfyB3OjtCWJBRbOl2gJ+AAAAAElFTkSuQmCC</Data>
+    <Data Key="Name" Type="System.String">External File</Data>
+    <Data Key="Count" Type="System.String">1</Data>
+  </ProjectStatisticsCollection>
+  <ProjectStatisticsCollection>
+    <Data Key="Icon" Type="System.String">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB2SURBVDhPvZJRCsAgDEPz4cH75bm8maNgh2mZ1jEWCKXUPiMIDNVae8Z2PkiHOy0hBhAguLV2A6z6fQLM0t5mpRRyGmAJZh0BdKYQqwwQ9Nn+/fsEwjeGHrJPQAu+h/yQIBhCXicYMnrGj4ATfQ/w3zRjArzVBV/xMmoUgFlyAAAAAElFTkSuQmCC</Data>
+    <Data Key="Name" Type="System.String">Program Call</Data>
+    <Data Key="Count" Type="System.String">6</Data>
+  </ProjectStatisticsCollection>
+</ProjectStatistics>

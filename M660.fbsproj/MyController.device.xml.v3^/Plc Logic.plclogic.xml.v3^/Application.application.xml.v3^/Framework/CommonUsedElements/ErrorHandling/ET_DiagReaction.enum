@@ -1,0 +1,25 @@
+__METADATA__
+{
+  "v3Meta": {
+    "objectGuid": "58d2f018-1e9f-4148-b7ea-aee48a474264",
+    "objectTypeGuid": "2db5746d-d284-4425-9f7f-2663a34b0ebc",
+    "embeddedObjectTypeGuids": [
+      "a9ed5b7e-75c5-4651-af16-d2c27e98cb94"
+    ],
+    "properties": {},
+    "subObjects": {}
+  }
+}
+__DECLARATION__
+{attribute 'qualified_only'}
+{attribute 'strict'}
+TYPE ET_DiagReaction :
+(
+	None              := 0,
+	LoggerEntry       := 1,
+	ReducePerformance := 2,
+	Halt              := 3,
+	ControlledStop    := 4,
+	ErrorStop         := 5
+)UINT;
+END_TYPE

@@ -1,0 +1,21 @@
+__METADATA__
+{
+  "v3Meta": {
+    "objectGuid": "d73cf7db-a9a9-4954-ae1d-a49e38b748b9",
+    "objectTypeGuid": "2db5746d-d284-4425-9f7f-2663a34b0ebc",
+    "embeddedObjectTypeGuids": [
+      "a9ed5b7e-75c5-4651-af16-d2c27e98cb94"
+    ],
+    "properties": {},
+    "subObjects": {}
+  }
+}
+__DECLARATION__
+TYPE ST_420SubUnitBOutputData :
+STRUCT
+	xActive               : BOOL;
+	xReady				  : BOOL;
+	etPackMlState         : PackML.ET_States := PackML.ET_States.Undefined;
+	etActiveOperationMode : ET_OperationMode;
+END_STRUCT
+END_TYPE

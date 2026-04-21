@@ -1,0 +1,24 @@
+__METADATA__
+{
+  "v3Meta": {
+    "objectGuid": "b7638d61-3536-4d5b-bb15-414707228523",
+    "objectTypeGuid": "2db5746d-d284-4425-9f7f-2663a34b0ebc",
+    "embeddedObjectTypeGuids": [
+      "a9ed5b7e-75c5-4651-af16-d2c27e98cb94"
+    ],
+    "properties": {},
+    "subObjects": {}
+  }
+}
+__DECLARATION__
+{attribute 'qualified_only'}
+{attribute 'strict'}
+TYPE ET_UnitState :
+(
+	Disabled			:= 0,
+	InitializeSubUnits 	:= 10,
+	InitializeOwnUnit  	:= 20,
+	Working            	:= 30,
+	DisableSubUnits		:= 90
+)UINT;
+END_TYPE

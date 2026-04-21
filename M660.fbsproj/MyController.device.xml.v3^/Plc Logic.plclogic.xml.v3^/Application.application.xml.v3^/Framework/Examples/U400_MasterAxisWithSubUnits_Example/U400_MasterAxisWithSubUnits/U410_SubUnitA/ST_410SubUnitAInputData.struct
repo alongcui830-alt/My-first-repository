@@ -1,0 +1,23 @@
+__METADATA__
+{
+  "v3Meta": {
+    "objectGuid": "01d2553b-e00d-4e06-98a5-02ae40a3c564",
+    "objectTypeGuid": "2db5746d-d284-4425-9f7f-2663a34b0ebc",
+    "embeddedObjectTypeGuids": [
+      "a9ed5b7e-75c5-4651-af16-d2c27e98cb94"
+    ],
+    "properties": {},
+    "subObjects": {}
+  }
+}
+__DECLARATION__
+TYPE ST_410SubUnitAInputData :
+STRUCT
+	xEnable         : BOOL;
+	etCmd           : PackML.ET_Cmd;
+	etOperationMode : ET_OperationMode;
+	xJogForw        : BOOL;
+	xJogBack        : BOOL;
+	lrJogVel        : LREAL;
+END_STRUCT
+END_TYPE

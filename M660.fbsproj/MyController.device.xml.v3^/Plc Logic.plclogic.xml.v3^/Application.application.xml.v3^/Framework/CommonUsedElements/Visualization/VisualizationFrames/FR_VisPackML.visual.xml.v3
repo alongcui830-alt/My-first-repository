@@ -1,0 +1,2641 @@
+__V3_META__
+{
+  "objectGuid": "f8b84961-bcb9-44de-8c8e-948f905ef787",
+  "objectTypeGuid": "f18bec89-9fef-401d-9953-2f11739a6808",
+  "embeddedObjectTypeGuids": [],
+  "properties": {
+    "_3S.CoDeSys.VisualObject.VisualProperty": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Single xml:space=\"preserve\" Type=\"{477d844b-9b2a-407e-90a4-d36fd6dde2fc}\" Method=\"IArchivable\"><Single Name=\"VisuUsageType\" Type=\"int\">0</Single><Single Name=\"SizeX\" Type=\"int\">1024</Single><Single Name=\"SizeY\" Type=\"int\">768</Single><Single Name=\"IsStartVisu\" Type=\"bool\">False</Single><Single Name=\"VisuSizeMode\" Type=\"{34718b76-91f6-43de-8c65-b77e0b1ee621}\">AutoDetect</Single><Single Name=\"Internal\" Type=\"bool\">False</Single><Single Name=\"DialogIsOpaque\" Type=\"bool\">False</Single><Single Name=\"DialogIsOpaqueIsSet\" Type=\"bool\">False</Single><Single Name=\"UseParentSizeProperties\" Type=\"bool\">True</Single><Null Name=\"ToolboxCategory\" /><Null Name=\"ToolboxImageId\" /><Single Name=\"IsCustomCategory\" Type=\"bool\">False</Single></Single>"
+  },
+  "subObjects": {}
+}
+__V3_CONTENT__
+<?xml version="1.0" encoding="utf-8"?>
+<Single xml:space="preserve" Type="{f18bec89-9fef-401d-9953-2f11739a6808}" Method="IArchivable">
+  <Null Name="LastVisuLanguageModelEntry" />
+  <Single Name="UniqueIdGenerator" Type="string">865</Single>
+  <Single Name="VisualElemList" Type="{f285c9a3-7019-446b-b98c-ccec3a0af8fa}" Method="IArchivable">
+    <List Name="VisualElementList" Type="{ef9d0b20-c96e-48db-b361-2ded4063150e}">
+      <Single Type="{f86c2928-8614-4cca-824b-e819ac4d58c4}" Method="IArchivable">
+        <Array Name="ConfiguredComplexInputs" Type="{1de566f6-72a7-494c-9353-9a418172c96e}" />
+        <List Name="Elements" Type="System.Collections.ArrayList" />
+        <Null Name="VisualElementDescription" />
+        <Single Name="VisualElemMemberList" Type="{17e26cd1-bb9b-47fe-a3d5-18fcd63b9c96}" Method="IArchivable">
+          <List Name="VisualElemMemberList" Type="{a4b83bea-3742-489c-9fe8-d96d68dba7ab}">
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">571893170</Single>
+              <Single Name="Value" Type="string"></Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1225741287</Single>
+              <Single Name="Value" Type="string">VISU_ST_STYLE</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1869484343</Single>
+              <Single Name="Value" Type="short">5</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">494569607</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-1</Single>
+                  <Single Name="CanonicalName" Type="string">BasicElement-Fill-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2812299069</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-1</Single>
+                  <Single Name="CanonicalName" Type="string">BasicElement-Fill-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">135947015</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-65536</Single>
+                  <Single Name="CanonicalName" Type="string">BasicElement-Alarm-Frame-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">493260384</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-12337</Single>
+                  <Single Name="CanonicalName" Type="string">BasicElement-Alarm-Fill-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2340015797</Single>
+              <Single Name="Value" Type="string">HCENTER</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2565699834</Single>
+              <Single Name="Value" Type="string">VCENTER</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">4134387352</Single>
+              <Single Name="Value" Type="string">NONE</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1603690730</Single>
+              <Single Name="Value" Type="string">Arial</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">4253639993</Single>
+              <Single Name="Value" Type="short">12</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2729990903</Single>
+              <Single Name="Value" Type="uint">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1213979116</Single>
+              <Single Name="Value" Type="uint">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3488306084</Single>
+              <Single Name="Value" Type="uint">4278190080</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">663104332</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-16777216</Single>
+                  <Single Name="CanonicalName" Type="string">Font-Default-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1999528970</Single>
+              <Single Name="Value" Type="string">&lt;toggle/tap variable&gt;</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3719097617</Single>
+              <Single Name="Value" Type="int">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1649127785</Single>
+              <Single Name="Value" Type="short">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">357335551</Single>
+              <Single Name="Value" Type="short">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2422045748</Single>
+              <Single Name="Value" Type="short">1024</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2134141914</Single>
+              <Single Name="Value" Type="short">655</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3729828405</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{9e842eb2-1463-4af2-b605-4fbb17044f94}" Method="IArchivable">
+                  <Single Name="FontStyle" Type="int">0</Single>
+                  <Single Name="AdditionalFontStyle" Type="ushort">0</Single>
+                  <Single Name="ExplicitColor" Type="int">-16777216</Single>
+                  <Single Name="CanonicalName" Type="string">Font-Standard</Single>
+                  <Single Name="FontName" Type="string">Arial</Single>
+                  <Single Name="DisplayName" Type="string"></Single>
+                  <Single Name="FontSize" Type="int">12</Single>
+                  <Single Name="ScriptIdentification" Type="int">0</Single>
+                  <Single Name="DoubleFontSize" Type="double">0</Single>
+                  <Single Name="NamedColor" Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                    <Single Name="Color" Type="int">-16777216</Single>
+                    <Single Name="CanonicalName" Type="string">Font-Default-Color</Single>
+                  </Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">550940142</Single>
+              <Single Name="Value" Type="int">512</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1473355128</Single>
+              <Single Name="Value" Type="int">327</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2678395525</Single>
+              <Single Name="Value" Type="uint">1</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">564465120</Single>
+              <Single Name="Value" Type="string">VISU_ST_RECTANGLE</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">390574330</Single>
+              <Single Name="Value" Type="string"></Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2597686782</Single>
+              <Single Name="Value" Type="bool">True</Single>
+            </Single>
+          </List>
+        </Single>
+        <Single Name="VisualElementName" Type="string">Rectangle</Single>
+        <Single Name="VisualElementTypeName" Type="string">VisuFbElemSimple</Single>
+        <Single Name="VisualElementIsRectangle" Type="bool">True</Single>
+        <Single Name="VisualElementIdentifier" Type="string">GenElemInst_25</Single>
+        <Null Name="VisualElementOfflinePaintCommands" />
+        <Null Name="VisualElementFrameInformation" />
+        <Dictionary Type="System.Collections.Hashtable" Name="VisualElementInputActions" />
+        <Single Name="VisualElementIdentification" Type="System.Guid">854373c2-4b97-4dd3-b267-5bb2c4c5e566</Single>
+        <Single Name="VisualElementOwningObjectGuid" Type="System.Guid">f8b84961-bcb9-44de-8c8e-948f905ef787</Single>
+        <Array Name="LMGuids" Type="System.Guid" />
+        <Dictionary Type="System.Collections.Hashtable" Name="SubElements" />
+        <Single Name="VisualElementId" Type="int">34</Single>
+        <List Name="UserManagementAccessRights" Type="System.Collections.ArrayList" />
+        <Single Name="AnimationDuration" Type="string">0</Single>
+        <Single Name="BringToForeground" Type="string"></Single>
+        <Single Name="ElementVersion" Type="byte">1</Single>
+        <Null Name="TabOrder" />
+      </Single>
+      <Single Type="{f86c2928-8614-4cca-824b-e819ac4d58c4}" Method="IArchivable">
+        <Array Name="ConfiguredComplexInputs" Type="{1de566f6-72a7-494c-9353-9a418172c96e}" />
+        <List Name="Elements" Type="System.Collections.ArrayList" />
+        <Null Name="VisualElementDescription" />
+        <Single Name="VisualElemMemberList" Type="{17e26cd1-bb9b-47fe-a3d5-18fcd63b9c96}" Method="IArchivable">
+          <List Name="VisualElemMemberList" Type="{a4b83bea-3742-489c-9fe8-d96d68dba7ab}">
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">571893170</Single>
+              <Single Name="Value" Type="string"></Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1225741287</Single>
+              <Single Name="Value" Type="string">VISU_ST_STYLE</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1869484343</Single>
+              <Single Name="Value" Type="short">5</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">494569607</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-1</Single>
+                  <Single Name="CanonicalName" Type="string">BasicElement-Fill-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2812299069</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-1</Single>
+                  <Single Name="CanonicalName" Type="string">BasicElement-Fill-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">135947015</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-65536</Single>
+                  <Single Name="CanonicalName" Type="string">BasicElement-Alarm-Frame-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">493260384</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-12337</Single>
+                  <Single Name="CanonicalName" Type="string">BasicElement-Alarm-Fill-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2340015797</Single>
+              <Single Name="Value" Type="string">HCENTER</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2565699834</Single>
+              <Single Name="Value" Type="string">VCENTER</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">4134387352</Single>
+              <Single Name="Value" Type="string">NONE</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1603690730</Single>
+              <Single Name="Value" Type="string">Arial</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">4253639993</Single>
+              <Single Name="Value" Type="short">12</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2729990903</Single>
+              <Single Name="Value" Type="uint">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1213979116</Single>
+              <Single Name="Value" Type="uint">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3488306084</Single>
+              <Single Name="Value" Type="uint">4278190080</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">663104332</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-16777216</Single>
+                  <Single Name="CanonicalName" Type="string">Font-Default-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1999528970</Single>
+              <Single Name="Value" Type="string">&lt;toggle/tap variable&gt;</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3719097617</Single>
+              <Single Name="Value" Type="int">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1649127785</Single>
+              <Single Name="Value" Type="short">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">357335551</Single>
+              <Single Name="Value" Type="short">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2422045748</Single>
+              <Single Name="Value" Type="short">800</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2134141914</Single>
+              <Single Name="Value" Type="short">505</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3729828405</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{9e842eb2-1463-4af2-b605-4fbb17044f94}" Method="IArchivable">
+                  <Single Name="FontStyle" Type="int">0</Single>
+                  <Single Name="AdditionalFontStyle" Type="ushort">0</Single>
+                  <Single Name="ExplicitColor" Type="int">-16777216</Single>
+                  <Single Name="CanonicalName" Type="string">Font-Standard</Single>
+                  <Single Name="FontName" Type="string">Arial</Single>
+                  <Single Name="DisplayName" Type="string"></Single>
+                  <Single Name="FontSize" Type="int">12</Single>
+                  <Single Name="ScriptIdentification" Type="int">0</Single>
+                  <Single Name="DoubleFontSize" Type="double">0</Single>
+                  <Single Name="NamedColor" Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                    <Single Name="Color" Type="int">-16777216</Single>
+                    <Single Name="CanonicalName" Type="string">Font-Default-Color</Single>
+                  </Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">550940142</Single>
+              <Single Name="Value" Type="int">400</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1473355128</Single>
+              <Single Name="Value" Type="int">252</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2678395525</Single>
+              <Single Name="Value" Type="uint">1</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">564465120</Single>
+              <Single Name="Value" Type="string">VISU_ST_RECTANGLE</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">390574330</Single>
+              <Single Name="Value" Type="string"></Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2597686782</Single>
+              <Single Name="Value" Type="bool">False</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2880254039</Single>
+              <Single Name="Value" Type="string">TRUE</Single>
+            </Single>
+          </List>
+        </Single>
+        <Single Name="VisualElementName" Type="string">Rectangle</Single>
+        <Single Name="VisualElementTypeName" Type="string">VisuFbElemSimple</Single>
+        <Single Name="VisualElementIsRectangle" Type="bool">True</Single>
+        <Single Name="VisualElementIdentifier" Type="string">GenElemInst_1</Single>
+        <Null Name="VisualElementOfflinePaintCommands" />
+        <Null Name="VisualElementFrameInformation" />
+        <Dictionary Type="System.Collections.Hashtable" Name="VisualElementInputActions" />
+        <Single Name="VisualElementIdentification" Type="System.Guid">9e787c36-3f43-4f50-9a08-4113768418b4</Single>
+        <Single Name="VisualElementOwningObjectGuid" Type="System.Guid">f8b84961-bcb9-44de-8c8e-948f905ef787</Single>
+        <Array Name="LMGuids" Type="System.Guid" />
+        <Dictionary Type="System.Collections.Hashtable" Name="SubElements" />
+        <Single Name="VisualElementId" Type="int">1</Single>
+        <List Name="UserManagementAccessRights" Type="System.Collections.ArrayList" />
+        <Single Name="AnimationDuration" Type="string">0</Single>
+        <Single Name="BringToForeground" Type="string"></Single>
+        <Single Name="ElementVersion" Type="byte">1</Single>
+        <Null Name="TabOrder" />
+      </Single>
+      <Single Type="{f86c2928-8614-4cca-824b-e819ac4d58c4}" Method="IArchivable">
+        <Array Name="ConfiguredComplexInputs" Type="{1de566f6-72a7-494c-9353-9a418172c96e}" />
+        <List Name="Elements" Type="System.Collections.ArrayList" />
+        <Null Name="VisualElementDescription" />
+        <Single Name="VisualElemMemberList" Type="{17e26cd1-bb9b-47fe-a3d5-18fcd63b9c96}" Method="IArchivable">
+          <List Name="VisualElemMemberList" Type="{a4b83bea-3742-489c-9fe8-d96d68dba7ab}">
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">571893170</Single>
+              <Single Name="Value" Type="string"></Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1225741287</Single>
+              <Single Name="Value" Type="string">VISU_ST_STYLE</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1869484343</Single>
+              <Single Name="Value" Type="short">5</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">494569607</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-1</Single>
+                  <Single Name="CanonicalName" Type="string">BasicElement-Fill-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2812299069</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-1</Single>
+                  <Single Name="CanonicalName" Type="string">BasicElement-Fill-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">135947015</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-65536</Single>
+                  <Single Name="CanonicalName" Type="string">BasicElement-Alarm-Frame-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">493260384</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-12337</Single>
+                  <Single Name="CanonicalName" Type="string">BasicElement-Alarm-Fill-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2340015797</Single>
+              <Single Name="Value" Type="string">HCENTER</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2565699834</Single>
+              <Single Name="Value" Type="string">VCENTER</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">4134387352</Single>
+              <Single Name="Value" Type="string">NONE</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1603690730</Single>
+              <Single Name="Value" Type="string">Arial</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">4253639993</Single>
+              <Single Name="Value" Type="short">12</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2729990903</Single>
+              <Single Name="Value" Type="uint">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1213979116</Single>
+              <Single Name="Value" Type="uint">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3488306084</Single>
+              <Single Name="Value" Type="uint">4278190080</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">663104332</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-16777216</Single>
+                  <Single Name="CanonicalName" Type="string">Font-Default-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1999528970</Single>
+              <Single Name="Value" Type="string">&lt;toggle/tap variable&gt;</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3719097617</Single>
+              <Single Name="Value" Type="int">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1649127785</Single>
+              <Single Name="Value" Type="short">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">357335551</Single>
+              <Single Name="Value" Type="short">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2422045748</Single>
+              <Single Name="Value" Type="short">800</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2134141914</Single>
+              <Single Name="Value" Type="short">505</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3729828405</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{9e842eb2-1463-4af2-b605-4fbb17044f94}" Method="IArchivable">
+                  <Single Name="FontStyle" Type="int">0</Single>
+                  <Single Name="AdditionalFontStyle" Type="ushort">0</Single>
+                  <Single Name="ExplicitColor" Type="int">-16777216</Single>
+                  <Single Name="CanonicalName" Type="string">Font-Standard</Single>
+                  <Single Name="FontName" Type="string">Arial</Single>
+                  <Single Name="DisplayName" Type="string"></Single>
+                  <Single Name="FontSize" Type="int">12</Single>
+                  <Single Name="ScriptIdentification" Type="int">0</Single>
+                  <Single Name="DoubleFontSize" Type="double">0</Single>
+                  <Single Name="NamedColor" Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                    <Single Name="Color" Type="int">-16777216</Single>
+                    <Single Name="CanonicalName" Type="string">Font-Default-Color</Single>
+                  </Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">550940142</Single>
+              <Single Name="Value" Type="int">400</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1473355128</Single>
+              <Single Name="Value" Type="int">252</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2678395525</Single>
+              <Single Name="Value" Type="uint">1</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">564465120</Single>
+              <Single Name="Value" Type="string">VISU_ST_RECTANGLE</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">390574330</Single>
+              <Single Name="Value" Type="string">VisManager: PackML frame not connected</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2597686782</Single>
+              <Single Name="Value" Type="bool">False</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2880254039</Single>
+              <Single Name="Value" Type="string">iq_stVisConnectorsSpecific.pfbPackMl &lt;&gt; 0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">823443203</Single>
+              <Single Name="Value" Type="string">947</Single>
+            </Single>
+          </List>
+        </Single>
+        <Single Name="VisualElementName" Type="string">Rectangle</Single>
+        <Single Name="VisualElementTypeName" Type="string">VisuFbElemSimple</Single>
+        <Single Name="VisualElementIsRectangle" Type="bool">True</Single>
+        <Single Name="VisualElementIdentifier" Type="string">GenElemInst_13</Single>
+        <Null Name="VisualElementOfflinePaintCommands" />
+        <Null Name="VisualElementFrameInformation" />
+        <Dictionary Type="System.Collections.Hashtable" Name="VisualElementInputActions" />
+        <Single Name="VisualElementIdentification" Type="System.Guid">2d556f78-5239-4e0f-b9e7-8325ce49f8f1</Single>
+        <Single Name="VisualElementOwningObjectGuid" Type="System.Guid">f8b84961-bcb9-44de-8c8e-948f905ef787</Single>
+        <Array Name="LMGuids" Type="System.Guid" />
+        <Dictionary Type="System.Collections.Hashtable" Name="SubElements" />
+        <Single Name="VisualElementId" Type="int">21</Single>
+        <List Name="UserManagementAccessRights" Type="System.Collections.ArrayList" />
+        <Single Name="AnimationDuration" Type="string">0</Single>
+        <Single Name="BringToForeground" Type="string"></Single>
+        <Single Name="ElementVersion" Type="byte">1</Single>
+        <Null Name="TabOrder" />
+      </Single>
+      <Single Type="{f86c2928-8614-4cca-824b-e819ac4d58c4}" Method="IArchivable">
+        <Array Name="ConfiguredComplexInputs" Type="{1de566f6-72a7-494c-9353-9a418172c96e}" />
+        <List Name="Elements" Type="System.Collections.ArrayList" />
+        <Null Name="VisualElementDescription" />
+        <Single Name="VisualElemMemberList" Type="{17e26cd1-bb9b-47fe-a3d5-18fcd63b9c96}" Method="IArchivable">
+          <List Name="VisualElemMemberList" Type="{a4b83bea-3742-489c-9fe8-d96d68dba7ab}">
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">571893170</Single>
+              <Single Name="Value" Type="string"></Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2341735680</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-2830136</Single>
+                  <Single Name="CanonicalName" Type="string">Element-Frame-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">438423234</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-65536</Single>
+                  <Single Name="CanonicalName" Type="string">Element-Alarm-Frame-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2678395525</Single>
+              <Single Name="Value" Type="short">1</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2340015797</Single>
+              <Single Name="Value" Type="string">HCENTER</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2565699834</Single>
+              <Single Name="Value" Type="string">VCENTER</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">4134387352</Single>
+              <Single Name="Value" Type="string">NONE</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1603690730</Single>
+              <Single Name="Value" Type="string">Arial</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">4253639993</Single>
+              <Single Name="Value" Type="short">12</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2729990903</Single>
+              <Single Name="Value" Type="uint">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1213979116</Single>
+              <Single Name="Value" Type="uint">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3488306084</Single>
+              <Single Name="Value" Type="uint">4278190080</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">663104332</Single>
+              <Single Name="Value" Type="uint">4278190080</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1999528970</Single>
+              <Single Name="Value" Type="string">&lt;toggle/tap variable&gt;</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1831690182</Single>
+              <Single Name="Value" Type="short">-1</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2812299069</Single>
+              <Single Name="Value" Type="uint">4294967295</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">494569607</Single>
+              <Single Name="Value" Type="uint">4278190080</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3719097617</Single>
+              <Single Name="Value" Type="int">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1649127785</Single>
+              <Single Name="Value" Type="int">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">357335551</Single>
+              <Single Name="Value" Type="short">120</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2422045748</Single>
+              <Single Name="Value" Type="short">1024</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2134141914</Single>
+              <Single Name="Value" Type="short">506</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">394923068</Single>
+              <Single Name="Value" Type="bool">False</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2322377816</Single>
+              <Single Name="Value" Type="string">NO_FRAME</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3549563837</Single>
+              <Single Name="Value" Type="string">ANISOTROPIC</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">363316305</Single>
+              <Single Name="Value" Type="{503c5b2e-e80e-4ee7-ae00-c5b93a62b1aa}" Method="IArchivable">
+                <Single Name="StructuredTypeNodeIsAnimation" Type="bool">False</Single>
+                <List Name="TypeNodeChildren" Type="System.Collections.ArrayList">
+                  <Single Type="{6c16f79c-dd98-4c29-b3ba-7042e3055542}" Method="IArchivable">
+                    <Single Name="DynamicArrayNodeCounterNode" Type="{f7e1e748-ea0f-4fcb-b563-94837ee17e8d}" Method="IArchivable">
+                      <Single Name="Flags" Type="long">0</Single>
+                      <Single Name="BasicTypeNodeValue" Type="short">1</Single>
+                      <Single Name="BasicTypeNodeAcceptsExpression" Type="bool">False</Single>
+                      <Null Name="BasicTypeNodeFastAccess" />
+                      <Array Name="BasicTypeNodeEnumValues" Type="string" />
+                      <Null Name="EnumValueDisplayTextIds" />
+                      <Null Name="EnumValueVisibilityAttributeValues" />
+                      <Null Name="EnumValueLibraryId" />
+                      <Null Name="DynamicEnumMemberVisibilityCheckerTypeGuid" />
+                      <Null Name="EnumValueDisplayName" />
+                      <List Name="TypeNodeChildren" Type="System.Collections.ArrayList" />
+                      <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                        <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Int</Single>
+                        <Single Name="QualifiedName" Type="string">INT</Single>
+                        <Single Name="Name" Type="string">INT</Single>
+                      </Single>
+                      <Single Name="TypeNodeName" Type="string">iCount</Single>
+                      <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                        <Single Name="AttrFlags" Type="ulong">1</Single>
+                        <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData">
+                          <Entry>
+                            <Key>
+                              <Single Type="string">Visible</Single>
+                            </Key>
+                            <Value>
+                              <Single Type="string">False</Single>
+                            </Value>
+                          </Entry>
+                        </Dictionary>
+                        <Single Name="ConvDone" Type="bool">True</Single>
+                      </Single>
+                      <Single Name="TypeNodeId" Type="short">104</Single>
+                      <Single Name="TypeNodeIdLong" Type="long">87295452</Single>
+                      <Single Name="LibraryId" Type="string">visuelembase, 4.6.0.0 (system)</Single>
+                      <Null Name="ElementId" />
+                      <Null Name="DisplayTextId" />
+                      <Null Name="DescriptionTextID" />
+                      <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                    </Single>
+                    <Null Name="DynamicArrayNodeFastAccess" />
+                    <Single Name="ChildTemplate" Type="{f8db32ff-bdd5-49e9-9014-6d9a6dea5d8c}" Method="IArchivable">
+                      <Single Name="VisuNodeReferenceGuid" Type="System.Guid">00000000-0000-0000-0000-000000000000</Single>
+                      <Null Name="VisuNodeReference" />
+                      <Null Name="VisNodeRefs33" />
+                      <List Name="TypeNodeChildren" Type="System.Collections.ArrayList" />
+                      <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                        <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Userdef</Single>
+                        <Single Name="QualifiedName" Type="string">IVisualisation</Single>
+                        <Single Name="Name" Type="string">IVisualisation</Single>
+                      </Single>
+                      <Single Name="TypeNodeName" Type="string"></Single>
+                      <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                        <Single Name="AttrFlags" Type="ulong">0</Single>
+                        <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData">
+                          <Entry>
+                            <Key>
+                              <Single Type="string">conditionalshow</Single>
+                            </Key>
+                            <Value>
+                              <Single Type="string">visu_elemdev</Single>
+                            </Value>
+                          </Entry>
+                          <Entry>
+                            <Key>
+                              <Single Type="string">ieccodeconversion_useexistinginterface</Single>
+                            </Key>
+                            <Value>
+                              <Single Type="string">_3S.CoDeSys.VisuGenerated.IVisualisationIEC</Single>
+                            </Value>
+                          </Entry>
+                          <Entry>
+                            <Key>
+                              <Single Type="string">''NORMAL__COMMENT</Single>
+                            </Key>
+                            <Value>
+                              <Single Type="string"> interface contains additional methods to IVisualElement</Single>
+                            </Value>
+                          </Entry>
+                        </Dictionary>
+                        <Single Name="ConvDone" Type="bool">True</Single>
+                      </Single>
+                      <Single Name="TypeNodeId" Type="short">1</Single>
+                      <Single Name="TypeNodeIdLong" Type="long">3861935604</Single>
+                      <Null Name="LibraryId" />
+                      <Null Name="ElementId" />
+                      <Null Name="DisplayTextId" />
+                      <Null Name="DescriptionTextID" />
+                      <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                    </Single>
+                    <List Name="TypeNodeChildren" Type="System.Collections.ArrayList">
+                      <Single Type="{f8db32ff-bdd5-49e9-9014-6d9a6dea5d8c}" Method="IArchivable">
+                        <Single Name="VisuNodeReferenceGuid" Type="System.Guid">00000000-0000-0000-0000-000000000000</Single>
+                        <Null Name="VisuNodeReference" />
+                        <Single Name="VisNodeRefs33" Type="string">FR_VisConnectorPackMLState</Single>
+                        <List Name="TypeNodeChildren" Type="System.Collections.ArrayList">
+                          <Single Type="{f7e1e748-ea0f-4fcb-b563-94837ee17e8d}" Method="IArchivable">
+                            <Single Name="Flags" Type="long">2</Single>
+                            <Null Name="BasicTypeNodeValue" />
+                            <Single Name="BasicTypeNodeAcceptsExpression" Type="bool">True</Single>
+                            <Null Name="BasicTypeNodeFastAccess" />
+                            <Array Name="BasicTypeNodeEnumValues" Type="string" />
+                            <Null Name="EnumValueDisplayTextIds" />
+                            <Null Name="EnumValueVisibilityAttributeValues" />
+                            <Null Name="EnumValueLibraryId" />
+                            <Null Name="DynamicEnumMemberVisibilityCheckerTypeGuid" />
+                            <Null Name="EnumValueDisplayName" />
+                            <List Name="TypeNodeChildren" Type="System.Collections.ArrayList" />
+                            <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                              <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Reference</Single>
+                              <Single Name="QualifiedName" Type="string">FB_VisConnectorPackML</Single>
+                              <Single Name="Name" Type="string">FB_VisConnectorPackML</Single>
+                            </Single>
+                            <Single Name="TypeNodeName" Type="string">fbVisConnectorPackML</Single>
+                            <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                              <Single Name="AttrFlags" Type="ulong">0</Single>
+                              <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData" />
+                              <Single Name="ConvDone" Type="bool">True</Single>
+                            </Single>
+                            <Single Name="TypeNodeId" Type="short">255</Single>
+                            <Single Name="TypeNodeIdLong" Type="long">4223444381</Single>
+                            <Null Name="LibraryId" />
+                            <Null Name="ElementId" />
+                            <Null Name="DisplayTextId" />
+                            <Null Name="DescriptionTextID" />
+                            <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                          </Single>
+                        </List>
+                        <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                          <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Userdef</Single>
+                          <Single Name="QualifiedName" Type="string">IVisualisation</Single>
+                          <Single Name="Name" Type="string">IVisualisation</Single>
+                        </Single>
+                        <Single Name="TypeNodeName" Type="string">[0]</Single>
+                        <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                          <Single Name="AttrFlags" Type="ulong">0</Single>
+                          <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData">
+                            <Entry>
+                              <Key>
+                                <Single Type="string">conditionalshow</Single>
+                              </Key>
+                              <Value>
+                                <Single Type="string">visu_elemdev</Single>
+                              </Value>
+                            </Entry>
+                            <Entry>
+                              <Key>
+                                <Single Type="string">ieccodeconversion_useexistinginterface</Single>
+                              </Key>
+                              <Value>
+                                <Single Type="string">_3S.CoDeSys.VisuGenerated.IVisualisationIEC</Single>
+                              </Value>
+                            </Entry>
+                            <Entry>
+                              <Key>
+                                <Single Type="string">''NORMAL__COMMENT</Single>
+                              </Key>
+                              <Value>
+                                <Single Type="string"> interface contains additional methods to IVisualElement</Single>
+                              </Value>
+                            </Entry>
+                          </Dictionary>
+                          <Single Name="ConvDone" Type="bool">True</Single>
+                        </Single>
+                        <Single Name="TypeNodeId" Type="short">1</Single>
+                        <Single Name="TypeNodeIdLong" Type="long">2473092364</Single>
+                        <Null Name="LibraryId" />
+                        <Null Name="ElementId" />
+                        <Null Name="DisplayTextId" />
+                        <Null Name="DescriptionTextID" />
+                        <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                      </Single>
+                    </List>
+                    <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                      <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Userdef</Single>
+                      <Single Name="QualifiedName" Type="string">IVisualisation</Single>
+                      <Single Name="Name" Type="string">IVisualisation</Single>
+                    </Single>
+                    <Single Name="TypeNodeName" Type="string">pReferences</Single>
+                    <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                      <Single Name="AttrFlags" Type="ulong">1048577</Single>
+                      <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData">
+                        <Entry>
+                          <Key>
+                            <Single Type="string">DefaultArraySize</Single>
+                          </Key>
+                          <Value>
+                            <Single Type="string">5</Single>
+                          </Value>
+                        </Entry>
+                        <Entry>
+                          <Key>
+                            <Single Type="string">ieccodeconversion_array</Single>
+                          </Key>
+                          <Value>
+                            <Single Type="string"></Single>
+                          </Value>
+                        </Entry>
+                        <Entry>
+                          <Key>
+                            <Single Type="string">''NORMAL__COMMENT</Single>
+                          </Key>
+                          <Value>
+                            <Single Type="string"> We hide this node to prevent having two References nodes
+ Nevertheless we want to make sure that the children are displayed</Single>
+                          </Value>
+                        </Entry>
+                        <Entry>
+                          <Key>
+                            <Single Type="string">Visible</Single>
+                          </Key>
+                          <Value>
+                            <Single Type="string">False</Single>
+                          </Value>
+                        </Entry>
+                        <Entry>
+                          <Key>
+                            <Single Type="string">VisibleChildren</Single>
+                          </Key>
+                          <Value>
+                            <Single Type="string">True</Single>
+                          </Value>
+                        </Entry>
+                      </Dictionary>
+                      <Single Name="ConvDone" Type="bool">True</Single>
+                    </Single>
+                    <Single Name="TypeNodeId" Type="short">103</Single>
+                    <Single Name="TypeNodeIdLong" Type="long">1547928903</Single>
+                    <Single Name="LibraryId" Type="string">visuelembase, 4.6.0.0 (system)</Single>
+                    <Null Name="ElementId" />
+                    <Null Name="DisplayTextId" />
+                    <Null Name="DescriptionTextID" />
+                    <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                  </Single>
+                  <Single Type="{f7e1e748-ea0f-4fcb-b563-94837ee17e8d}" Method="IArchivable">
+                    <Single Name="Flags" Type="long">0</Single>
+                    <Single Name="BasicTypeNodeValue" Type="short">1</Single>
+                    <Single Name="BasicTypeNodeAcceptsExpression" Type="bool">False</Single>
+                    <Null Name="BasicTypeNodeFastAccess" />
+                    <Array Name="BasicTypeNodeEnumValues" Type="string" />
+                    <Null Name="EnumValueDisplayTextIds" />
+                    <Null Name="EnumValueVisibilityAttributeValues" />
+                    <Null Name="EnumValueLibraryId" />
+                    <Null Name="DynamicEnumMemberVisibilityCheckerTypeGuid" />
+                    <Null Name="EnumValueDisplayName" />
+                    <List Name="TypeNodeChildren" Type="System.Collections.ArrayList" />
+                    <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                      <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Int</Single>
+                      <Single Name="QualifiedName" Type="string">INT</Single>
+                      <Single Name="Name" Type="string">INT</Single>
+                    </Single>
+                    <Single Name="TypeNodeName" Type="string">iCount</Single>
+                    <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                      <Single Name="AttrFlags" Type="ulong">1</Single>
+                      <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData">
+                        <Entry>
+                          <Key>
+                            <Single Type="string">Visible</Single>
+                          </Key>
+                          <Value>
+                            <Single Type="string">False</Single>
+                          </Value>
+                        </Entry>
+                      </Dictionary>
+                      <Single Name="ConvDone" Type="bool">True</Single>
+                    </Single>
+                    <Single Name="TypeNodeId" Type="short">104</Single>
+                    <Single Name="TypeNodeIdLong" Type="long">87295452</Single>
+                    <Single Name="LibraryId" Type="string">visuelembase, 4.6.0.0 (system)</Single>
+                    <Null Name="ElementId" />
+                    <Null Name="DisplayTextId" />
+                    <Null Name="DescriptionTextID" />
+                    <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                  </Single>
+                </List>
+                <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                  <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Userdef</Single>
+                  <Single Name="QualifiedName" Type="string">VisuStructReferenceList</Single>
+                  <Single Name="Name" Type="string">VisuStructReferenceList</Single>
+                </Single>
+                <Single Name="TypeNodeName" Type="string">m_References</Single>
+                <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                  <Single Name="AttrFlags" Type="ulong">81920</Single>
+                  <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData">
+                    <Entry>
+                      <Key>
+                        <Single Type="string">AssignDestination</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">Init</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">Category</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">Simple|Standard</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">conditionalshow</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">visu_elemdev</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">DescriptionTextId</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">TL_ElementProperties.Desc_ReferencedVisus</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">DisplayFrameReferencesConfiguration</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string"></Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">DisplayTextId</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">TL_ElementProperties.References</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">DynamicArray</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string"></Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">FrameReferences</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string"></Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">SortFlag</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">80</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">Storable</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">True</Single>
+                      </Value>
+                    </Entry>
+                  </Dictionary>
+                  <Single Name="ConvDone" Type="bool">True</Single>
+                </Single>
+                <Single Name="TypeNodeId" Type="short">102</Single>
+                <Single Name="TypeNodeIdLong" Type="long">363316305</Single>
+                <Single Name="LibraryId" Type="string">visuelems, 4.6.0.0 (system)</Single>
+                <Null Name="ElementId" />
+                <Single Name="DisplayTextId" Type="string">TL_ElementProperties.References</Single>
+                <Single Name="DescriptionTextID" Type="string">TL_ElementProperties.Desc_ReferencedVisus</Single>
+                <Single Name="DescriptionUseParent" Type="bool">False</Single>
+              </Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3729828405</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{9e842eb2-1463-4af2-b605-4fbb17044f94}" Method="IArchivable">
+                  <Single Name="FontStyle" Type="int">0</Single>
+                  <Single Name="AdditionalFontStyle" Type="ushort">0</Single>
+                  <Single Name="ExplicitColor" Type="int">-16777216</Single>
+                  <Single Name="CanonicalName" Type="string">Font-Standard</Single>
+                  <Single Name="FontName" Type="string">Arial</Single>
+                  <Single Name="DisplayName" Type="string"></Single>
+                  <Single Name="FontSize" Type="int">12</Single>
+                  <Single Name="ScriptIdentification" Type="int">0</Single>
+                  <Single Name="DoubleFontSize" Type="double">0</Single>
+                  <Single Name="NamedColor" Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                    <Single Name="Color" Type="int">-16777216</Single>
+                    <Single Name="CanonicalName" Type="string">Font-Default-Color</Single>
+                  </Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">550940142</Single>
+              <Single Name="Value" Type="int">283</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1473355128</Single>
+              <Single Name="Value" Type="int">279</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">493260384</Single>
+              <Single Name="Value" Type="uint">4294967295</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">135947015</Single>
+              <Single Name="Value" Type="uint">4278190080</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">390574330</Single>
+              <Single Name="Value" Type="string"></Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2473092364</Single>
+              <Single Name="Value" Type="{f8db32ff-bdd5-49e9-9014-6d9a6dea5d8c}" Method="IArchivable">
+                <Single Name="VisuNodeReferenceGuid" Type="System.Guid">00000000-0000-0000-0000-000000000000</Single>
+                <Null Name="VisuNodeReference" />
+                <Single Name="VisNodeRefs33" Type="string">FR_VisConnectorPackMLState</Single>
+                <List Name="TypeNodeChildren" Type="System.Collections.ArrayList">
+                  <Single Type="{f7e1e748-ea0f-4fcb-b563-94837ee17e8d}" Method="IArchivable">
+                    <Single Name="Flags" Type="long">2</Single>
+                    <Single Name="BasicTypeNodeValue" Type="string">iq_stVisConnectorsSpecific.pfbPackMl^</Single>
+                    <Single Name="BasicTypeNodeAcceptsExpression" Type="bool">True</Single>
+                    <Null Name="BasicTypeNodeFastAccess" />
+                    <Array Name="BasicTypeNodeEnumValues" Type="string" />
+                    <Null Name="EnumValueDisplayTextIds" />
+                    <Null Name="EnumValueVisibilityAttributeValues" />
+                    <Null Name="EnumValueLibraryId" />
+                    <Null Name="DynamicEnumMemberVisibilityCheckerTypeGuid" />
+                    <Null Name="EnumValueDisplayName" />
+                    <List Name="TypeNodeChildren" Type="System.Collections.ArrayList" />
+                    <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                      <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Reference</Single>
+                      <Single Name="QualifiedName" Type="string">FB_VisConnectorPackML</Single>
+                      <Single Name="Name" Type="string">FB_VisConnectorPackML</Single>
+                    </Single>
+                    <Single Name="TypeNodeName" Type="string">iq_fbVisConnectorPackML</Single>
+                    <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                      <Single Name="AttrFlags" Type="ulong">0</Single>
+                      <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData" />
+                      <Single Name="ConvDone" Type="bool">True</Single>
+                    </Single>
+                    <Single Name="TypeNodeId" Type="short">255</Single>
+                    <Single Name="TypeNodeIdLong" Type="long">3075820301</Single>
+                    <Null Name="LibraryId" />
+                    <Null Name="ElementId" />
+                    <Null Name="DisplayTextId" />
+                    <Null Name="DescriptionTextID" />
+                    <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                  </Single>
+                </List>
+                <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                  <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Userdef</Single>
+                  <Single Name="QualifiedName" Type="string">IVisualisation</Single>
+                  <Single Name="Name" Type="string">IVisualisation</Single>
+                </Single>
+                <Single Name="TypeNodeName" Type="string">[0]</Single>
+                <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                  <Single Name="AttrFlags" Type="ulong">0</Single>
+                  <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData">
+                    <Entry>
+                      <Key>
+                        <Single Type="string">conditionalshow</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">visu_elemdev</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">ieccodeconversion_useexistinginterface</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">_3S.CoDeSys.VisuGenerated.IVisualisationIEC</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">''NORMAL__COMMENT</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string"> interface contains additional methods to IVisualElement</Single>
+                      </Value>
+                    </Entry>
+                  </Dictionary>
+                  <Single Name="ConvDone" Type="bool">True</Single>
+                </Single>
+                <Single Name="TypeNodeId" Type="short">1</Single>
+                <Single Name="TypeNodeIdLong" Type="long">2473092364</Single>
+                <Null Name="LibraryId" />
+                <Null Name="ElementId" />
+                <Null Name="DisplayTextId" />
+                <Null Name="DescriptionTextID" />
+                <Single Name="DescriptionUseParent" Type="bool">False</Single>
+              </Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2597686782</Single>
+              <Single Name="Value" Type="bool">False</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2880254039</Single>
+              <Single Name="Value" Type="string">NOT iq_axVisConnectorValid[ET_VisConnectors.PackML]</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1013868361</Single>
+              <Single Name="Value" Type="bool">True</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3075820301</Single>
+              <Single Name="Value" Type="string">iq_stVisConnectorsSpecific.pfbPackMl^</Single>
+            </Single>
+          </List>
+        </Single>
+        <Single Name="VisualElementName" Type="string">Frame</Single>
+        <Single Name="VisualElementTypeName" Type="string">VisuFbFrame</Single>
+        <Single Name="VisualElementIsRectangle" Type="bool">True</Single>
+        <Single Name="VisualElementIdentifier" Type="string">GenElemInst_10</Single>
+        <Null Name="VisualElementOfflinePaintCommands" />
+        <Single Name="VisualElementFrameInformation" Type="{7fd6515d-f891-4717-b53f-b14197c6706c}" Method="IArchivable">
+          <List Name="ContainedGuids" Type="System.Collections.ArrayList" />
+          <List Name="ContainedVisualizations" Type="System.Collections.ArrayList" />
+          <Array Name="ContainedVisualizations33" Type="string">
+            <Single Type="string">FR_VisConnectorPackMLState</Single>
+          </Array>
+        </Single>
+        <Dictionary Type="System.Collections.Hashtable" Name="VisualElementInputActions" />
+        <Single Name="VisualElementIdentification" Type="System.Guid">5c681fcd-3117-4c96-8d29-2f506e4f35c7</Single>
+        <Single Name="VisualElementOwningObjectGuid" Type="System.Guid">f8b84961-bcb9-44de-8c8e-948f905ef787</Single>
+        <Array Name="LMGuids" Type="System.Guid" />
+        <Dictionary Type="System.Collections.Hashtable" Name="SubElements" />
+        <Single Name="VisualElementId" Type="int">14</Single>
+        <List Name="UserManagementAccessRights" Type="System.Collections.ArrayList" />
+        <Single Name="AnimationDuration" Type="string">0</Single>
+        <Single Name="BringToForeground" Type="string"></Single>
+        <Single Name="ElementVersion" Type="byte">1</Single>
+        <Null Name="TabOrder" />
+      </Single>
+      <Single Type="{f86c2928-8614-4cca-824b-e819ac4d58c4}" Method="IArchivable">
+        <Array Name="ConfiguredComplexInputs" Type="{1de566f6-72a7-494c-9353-9a418172c96e}" />
+        <List Name="Elements" Type="System.Collections.ArrayList" />
+        <Null Name="VisualElementDescription" />
+        <Single Name="VisualElemMemberList" Type="{17e26cd1-bb9b-47fe-a3d5-18fcd63b9c96}" Method="IArchivable">
+          <List Name="VisualElemMemberList" Type="{a4b83bea-3742-489c-9fe8-d96d68dba7ab}">
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">571893170</Single>
+              <Single Name="Value" Type="string"></Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2341735680</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-2830136</Single>
+                  <Single Name="CanonicalName" Type="string">Element-Frame-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">438423234</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                  <Single Name="Color" Type="int">-65536</Single>
+                  <Single Name="CanonicalName" Type="string">Element-Alarm-Frame-Color</Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2678395525</Single>
+              <Single Name="Value" Type="short">1</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2340015797</Single>
+              <Single Name="Value" Type="string">HCENTER</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2565699834</Single>
+              <Single Name="Value" Type="string">VCENTER</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">4134387352</Single>
+              <Single Name="Value" Type="string">NONE</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1603690730</Single>
+              <Single Name="Value" Type="string">Arial</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">4253639993</Single>
+              <Single Name="Value" Type="short">12</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2729990903</Single>
+              <Single Name="Value" Type="uint">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1213979116</Single>
+              <Single Name="Value" Type="uint">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3488306084</Single>
+              <Single Name="Value" Type="uint">4278190080</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">663104332</Single>
+              <Single Name="Value" Type="uint">4278190080</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1999528970</Single>
+              <Single Name="Value" Type="string">&lt;toggle/tap variable&gt;</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1831690182</Single>
+              <Single Name="Value" Type="short">-1</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2812299069</Single>
+              <Single Name="Value" Type="uint">4294967295</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">494569607</Single>
+              <Single Name="Value" Type="uint">4278190080</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3719097617</Single>
+              <Single Name="Value" Type="int">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1649127785</Single>
+              <Single Name="Value" Type="short">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">357335551</Single>
+              <Single Name="Value" Type="short">0</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2422045748</Single>
+              <Single Name="Value" Type="short">800</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2134141914</Single>
+              <Single Name="Value" Type="short">90</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">394923068</Single>
+              <Single Name="Value" Type="bool">False</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2322377816</Single>
+              <Single Name="Value" Type="string">NO_FRAME</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3549563837</Single>
+              <Single Name="Value" Type="string">ANISOTROPIC</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">363316305</Single>
+              <Single Name="Value" Type="{503c5b2e-e80e-4ee7-ae00-c5b93a62b1aa}" Method="IArchivable">
+                <Single Name="StructuredTypeNodeIsAnimation" Type="bool">False</Single>
+                <List Name="TypeNodeChildren" Type="System.Collections.ArrayList">
+                  <Single Type="{6c16f79c-dd98-4c29-b3ba-7042e3055542}" Method="IArchivable">
+                    <Single Name="DynamicArrayNodeCounterNode" Type="{f7e1e748-ea0f-4fcb-b563-94837ee17e8d}" Method="IArchivable">
+                      <Single Name="Flags" Type="long">0</Single>
+                      <Single Name="BasicTypeNodeValue" Type="short">1</Single>
+                      <Single Name="BasicTypeNodeAcceptsExpression" Type="bool">False</Single>
+                      <Null Name="BasicTypeNodeFastAccess" />
+                      <Array Name="BasicTypeNodeEnumValues" Type="string" />
+                      <Null Name="EnumValueDisplayTextIds" />
+                      <Null Name="EnumValueVisibilityAttributeValues" />
+                      <Null Name="EnumValueLibraryId" />
+                      <Null Name="DynamicEnumMemberVisibilityCheckerTypeGuid" />
+                      <Null Name="EnumValueDisplayName" />
+                      <List Name="TypeNodeChildren" Type="System.Collections.ArrayList" />
+                      <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                        <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Int</Single>
+                        <Single Name="QualifiedName" Type="string">INT</Single>
+                        <Single Name="Name" Type="string">INT</Single>
+                      </Single>
+                      <Single Name="TypeNodeName" Type="string">iCount</Single>
+                      <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                        <Single Name="AttrFlags" Type="ulong">1</Single>
+                        <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData">
+                          <Entry>
+                            <Key>
+                              <Single Type="string">Visible</Single>
+                            </Key>
+                            <Value>
+                              <Single Type="string">False</Single>
+                            </Value>
+                          </Entry>
+                        </Dictionary>
+                        <Single Name="ConvDone" Type="bool">True</Single>
+                      </Single>
+                      <Single Name="TypeNodeId" Type="short">104</Single>
+                      <Single Name="TypeNodeIdLong" Type="long">87295452</Single>
+                      <Single Name="LibraryId" Type="string">visuelembase, 4.6.0.0 (system)</Single>
+                      <Null Name="ElementId" />
+                      <Null Name="DisplayTextId" />
+                      <Null Name="DescriptionTextID" />
+                      <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                    </Single>
+                    <Null Name="DynamicArrayNodeFastAccess" />
+                    <Single Name="ChildTemplate" Type="{f8db32ff-bdd5-49e9-9014-6d9a6dea5d8c}" Method="IArchivable">
+                      <Single Name="VisuNodeReferenceGuid" Type="System.Guid">00000000-0000-0000-0000-000000000000</Single>
+                      <Null Name="VisuNodeReference" />
+                      <Null Name="VisNodeRefs33" />
+                      <List Name="TypeNodeChildren" Type="System.Collections.ArrayList" />
+                      <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                        <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Userdef</Single>
+                        <Single Name="QualifiedName" Type="string">IVisualisation</Single>
+                        <Single Name="Name" Type="string">IVisualisation</Single>
+                      </Single>
+                      <Single Name="TypeNodeName" Type="string"></Single>
+                      <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                        <Single Name="AttrFlags" Type="ulong">0</Single>
+                        <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData">
+                          <Entry>
+                            <Key>
+                              <Single Type="string">conditionalshow</Single>
+                            </Key>
+                            <Value>
+                              <Single Type="string">visu_elemdev</Single>
+                            </Value>
+                          </Entry>
+                          <Entry>
+                            <Key>
+                              <Single Type="string">ieccodeconversion_useexistinginterface</Single>
+                            </Key>
+                            <Value>
+                              <Single Type="string">_3S.CoDeSys.VisuGenerated.IVisualisationIEC</Single>
+                            </Value>
+                          </Entry>
+                          <Entry>
+                            <Key>
+                              <Single Type="string">''NORMAL__COMMENT</Single>
+                            </Key>
+                            <Value>
+                              <Single Type="string"> interface contains additional methods to IVisualElement</Single>
+                            </Value>
+                          </Entry>
+                        </Dictionary>
+                        <Single Name="ConvDone" Type="bool">True</Single>
+                      </Single>
+                      <Single Name="TypeNodeId" Type="short">1</Single>
+                      <Single Name="TypeNodeIdLong" Type="long">3861935604</Single>
+                      <Null Name="LibraryId" />
+                      <Null Name="ElementId" />
+                      <Null Name="DisplayTextId" />
+                      <Null Name="DescriptionTextID" />
+                      <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                    </Single>
+                    <List Name="TypeNodeChildren" Type="System.Collections.ArrayList">
+                      <Single Type="{f8db32ff-bdd5-49e9-9014-6d9a6dea5d8c}" Method="IArchivable">
+                        <Single Name="VisuNodeReferenceGuid" Type="System.Guid">00000000-0000-0000-0000-000000000000</Single>
+                        <Null Name="VisuNodeReference" />
+                        <Single Name="VisNodeRefs33" Type="string">FR_UnitVisHeader</Single>
+                        <List Name="TypeNodeChildren" Type="System.Collections.ArrayList">
+                          <Single Type="{f7e1e748-ea0f-4fcb-b563-94837ee17e8d}" Method="IArchivable">
+                            <Single Name="Flags" Type="long">2</Single>
+                            <Null Name="BasicTypeNodeValue" />
+                            <Single Name="BasicTypeNodeAcceptsExpression" Type="bool">True</Single>
+                            <Null Name="BasicTypeNodeFastAccess" />
+                            <Array Name="BasicTypeNodeEnumValues" Type="string" />
+                            <Null Name="EnumValueDisplayTextIds" />
+                            <Null Name="EnumValueVisibilityAttributeValues" />
+                            <Null Name="EnumValueLibraryId" />
+                            <Null Name="DynamicEnumMemberVisibilityCheckerTypeGuid" />
+                            <Null Name="EnumValueDisplayName" />
+                            <List Name="TypeNodeChildren" Type="System.Collections.ArrayList" />
+                            <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                              <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Reference</Single>
+                              <Single Name="QualifiedName" Type="string">ARRAY [0..ET_VisConnectors.LastIndex] OF BOOL</Single>
+                              <Single Name="Name" Type="string">ARRAY [0..ET_VisConnectors.LastIndex] OF BOOL</Single>
+                            </Single>
+                            <Single Name="TypeNodeName" Type="string">iq_axVisConnectorValid</Single>
+                            <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                              <Single Name="AttrFlags" Type="ulong">0</Single>
+                              <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData" />
+                              <Single Name="ConvDone" Type="bool">True</Single>
+                            </Single>
+                            <Single Name="TypeNodeId" Type="short">255</Single>
+                            <Single Name="TypeNodeIdLong" Type="long">1711086779</Single>
+                            <Null Name="LibraryId" />
+                            <Null Name="ElementId" />
+                            <Null Name="DisplayTextId" />
+                            <Null Name="DescriptionTextID" />
+                            <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                          </Single>
+                          <Single Type="{f7e1e748-ea0f-4fcb-b563-94837ee17e8d}" Method="IArchivable">
+                            <Single Name="Flags" Type="long">2</Single>
+                            <Null Name="BasicTypeNodeValue" />
+                            <Single Name="BasicTypeNodeAcceptsExpression" Type="bool">True</Single>
+                            <Null Name="BasicTypeNodeFastAccess" />
+                            <Array Name="BasicTypeNodeEnumValues" Type="string" />
+                            <Null Name="EnumValueDisplayTextIds" />
+                            <Null Name="EnumValueVisibilityAttributeValues" />
+                            <Null Name="EnumValueLibraryId" />
+                            <Null Name="DynamicEnumMemberVisibilityCheckerTypeGuid" />
+                            <Null Name="EnumValueDisplayName" />
+                            <List Name="TypeNodeChildren" Type="System.Collections.ArrayList" />
+                            <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                              <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Reference</Single>
+                              <Single Name="QualifiedName" Type="string">SE_AFU.FB_VisApplicationManager&lt;(ET_VisConnectors.LastIndex)&gt;</Single>
+                              <Single Name="Name" Type="string">SE_AFU.FB_VisApplicationManager&lt;(ET_VisConnectors.LastIndex)&gt;</Single>
+                            </Single>
+                            <Single Name="TypeNodeName" Type="string">iq_fbVisManager</Single>
+                            <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                              <Single Name="AttrFlags" Type="ulong">0</Single>
+                              <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData" />
+                              <Single Name="ConvDone" Type="bool">True</Single>
+                            </Single>
+                            <Single Name="TypeNodeId" Type="short">256</Single>
+                            <Single Name="TypeNodeIdLong" Type="long">2002714637</Single>
+                            <Null Name="LibraryId" />
+                            <Null Name="ElementId" />
+                            <Null Name="DisplayTextId" />
+                            <Null Name="DescriptionTextID" />
+                            <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                          </Single>
+                          <Single Type="{f7e1e748-ea0f-4fcb-b563-94837ee17e8d}" Method="IArchivable">
+                            <Single Name="Flags" Type="long">2</Single>
+                            <Null Name="BasicTypeNodeValue" />
+                            <Single Name="BasicTypeNodeAcceptsExpression" Type="bool">True</Single>
+                            <Null Name="BasicTypeNodeFastAccess" />
+                            <Array Name="BasicTypeNodeEnumValues" Type="string" />
+                            <Null Name="EnumValueDisplayTextIds" />
+                            <Null Name="EnumValueVisibilityAttributeValues" />
+                            <Null Name="EnumValueLibraryId" />
+                            <Null Name="DynamicEnumMemberVisibilityCheckerTypeGuid" />
+                            <Null Name="EnumValueDisplayName" />
+                            <List Name="TypeNodeChildren" Type="System.Collections.ArrayList" />
+                            <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                              <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Reference</Single>
+                              <Single Name="QualifiedName" Type="string">ST_VisConnectorsApplicationSpecific</Single>
+                              <Single Name="Name" Type="string">ST_VisConnectorsApplicationSpecific</Single>
+                            </Single>
+                            <Single Name="TypeNodeName" Type="string">iq_stVisConnectorsSpecific</Single>
+                            <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                              <Single Name="AttrFlags" Type="ulong">0</Single>
+                              <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData" />
+                              <Single Name="ConvDone" Type="bool">True</Single>
+                            </Single>
+                            <Single Name="TypeNodeId" Type="short">257</Single>
+                            <Single Name="TypeNodeIdLong" Type="long">1797599291</Single>
+                            <Null Name="LibraryId" />
+                            <Null Name="ElementId" />
+                            <Null Name="DisplayTextId" />
+                            <Null Name="DescriptionTextID" />
+                            <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                          </Single>
+                        </List>
+                        <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                          <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Userdef</Single>
+                          <Single Name="QualifiedName" Type="string">IVisualisation</Single>
+                          <Single Name="Name" Type="string">IVisualisation</Single>
+                        </Single>
+                        <Single Name="TypeNodeName" Type="string">[0]</Single>
+                        <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                          <Single Name="AttrFlags" Type="ulong">0</Single>
+                          <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData">
+                            <Entry>
+                              <Key>
+                                <Single Type="string">conditionalshow</Single>
+                              </Key>
+                              <Value>
+                                <Single Type="string">visu_elemdev</Single>
+                              </Value>
+                            </Entry>
+                            <Entry>
+                              <Key>
+                                <Single Type="string">ieccodeconversion_useexistinginterface</Single>
+                              </Key>
+                              <Value>
+                                <Single Type="string">_3S.CoDeSys.VisuGenerated.IVisualisationIEC</Single>
+                              </Value>
+                            </Entry>
+                            <Entry>
+                              <Key>
+                                <Single Type="string">''NORMAL__COMMENT</Single>
+                              </Key>
+                              <Value>
+                                <Single Type="string"> interface contains additional methods to IVisualElement</Single>
+                              </Value>
+                            </Entry>
+                          </Dictionary>
+                          <Single Name="ConvDone" Type="bool">True</Single>
+                        </Single>
+                        <Single Name="TypeNodeId" Type="short">1</Single>
+                        <Single Name="TypeNodeIdLong" Type="long">2473092364</Single>
+                        <Null Name="LibraryId" />
+                        <Null Name="ElementId" />
+                        <Null Name="DisplayTextId" />
+                        <Null Name="DescriptionTextID" />
+                        <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                      </Single>
+                    </List>
+                    <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                      <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Userdef</Single>
+                      <Single Name="QualifiedName" Type="string">IVisualisation</Single>
+                      <Single Name="Name" Type="string">IVisualisation</Single>
+                    </Single>
+                    <Single Name="TypeNodeName" Type="string">pReferences</Single>
+                    <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                      <Single Name="AttrFlags" Type="ulong">1048577</Single>
+                      <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData">
+                        <Entry>
+                          <Key>
+                            <Single Type="string">DefaultArraySize</Single>
+                          </Key>
+                          <Value>
+                            <Single Type="string">5</Single>
+                          </Value>
+                        </Entry>
+                        <Entry>
+                          <Key>
+                            <Single Type="string">ieccodeconversion_array</Single>
+                          </Key>
+                          <Value>
+                            <Single Type="string"></Single>
+                          </Value>
+                        </Entry>
+                        <Entry>
+                          <Key>
+                            <Single Type="string">''NORMAL__COMMENT</Single>
+                          </Key>
+                          <Value>
+                            <Single Type="string"> We hide this node to prevent having two References nodes
+ Nevertheless we want to make sure that the children are displayed</Single>
+                          </Value>
+                        </Entry>
+                        <Entry>
+                          <Key>
+                            <Single Type="string">Visible</Single>
+                          </Key>
+                          <Value>
+                            <Single Type="string">False</Single>
+                          </Value>
+                        </Entry>
+                        <Entry>
+                          <Key>
+                            <Single Type="string">VisibleChildren</Single>
+                          </Key>
+                          <Value>
+                            <Single Type="string">True</Single>
+                          </Value>
+                        </Entry>
+                      </Dictionary>
+                      <Single Name="ConvDone" Type="bool">True</Single>
+                    </Single>
+                    <Single Name="TypeNodeId" Type="short">103</Single>
+                    <Single Name="TypeNodeIdLong" Type="long">1547928903</Single>
+                    <Single Name="LibraryId" Type="string">visuelembase, 4.6.0.0 (system)</Single>
+                    <Null Name="ElementId" />
+                    <Null Name="DisplayTextId" />
+                    <Null Name="DescriptionTextID" />
+                    <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                  </Single>
+                  <Single Type="{f7e1e748-ea0f-4fcb-b563-94837ee17e8d}" Method="IArchivable">
+                    <Single Name="Flags" Type="long">0</Single>
+                    <Single Name="BasicTypeNodeValue" Type="short">1</Single>
+                    <Single Name="BasicTypeNodeAcceptsExpression" Type="bool">False</Single>
+                    <Null Name="BasicTypeNodeFastAccess" />
+                    <Array Name="BasicTypeNodeEnumValues" Type="string" />
+                    <Null Name="EnumValueDisplayTextIds" />
+                    <Null Name="EnumValueVisibilityAttributeValues" />
+                    <Null Name="EnumValueLibraryId" />
+                    <Null Name="DynamicEnumMemberVisibilityCheckerTypeGuid" />
+                    <Null Name="EnumValueDisplayName" />
+                    <List Name="TypeNodeChildren" Type="System.Collections.ArrayList" />
+                    <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                      <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Int</Single>
+                      <Single Name="QualifiedName" Type="string">INT</Single>
+                      <Single Name="Name" Type="string">INT</Single>
+                    </Single>
+                    <Single Name="TypeNodeName" Type="string">iCount</Single>
+                    <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                      <Single Name="AttrFlags" Type="ulong">1</Single>
+                      <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData">
+                        <Entry>
+                          <Key>
+                            <Single Type="string">Visible</Single>
+                          </Key>
+                          <Value>
+                            <Single Type="string">False</Single>
+                          </Value>
+                        </Entry>
+                      </Dictionary>
+                      <Single Name="ConvDone" Type="bool">True</Single>
+                    </Single>
+                    <Single Name="TypeNodeId" Type="short">104</Single>
+                    <Single Name="TypeNodeIdLong" Type="long">87295452</Single>
+                    <Single Name="LibraryId" Type="string">visuelembase, 4.6.0.0 (system)</Single>
+                    <Null Name="ElementId" />
+                    <Null Name="DisplayTextId" />
+                    <Null Name="DescriptionTextID" />
+                    <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                  </Single>
+                </List>
+                <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                  <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Userdef</Single>
+                  <Single Name="QualifiedName" Type="string">VisuStructReferenceList</Single>
+                  <Single Name="Name" Type="string">VisuStructReferenceList</Single>
+                </Single>
+                <Single Name="TypeNodeName" Type="string">m_References</Single>
+                <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                  <Single Name="AttrFlags" Type="ulong">81920</Single>
+                  <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData">
+                    <Entry>
+                      <Key>
+                        <Single Type="string">AssignDestination</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">Init</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">Category</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">Simple|Standard</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">conditionalshow</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">visu_elemdev</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">DescriptionTextId</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">TL_ElementProperties.Desc_ReferencedVisus</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">DisplayFrameReferencesConfiguration</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string"></Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">DisplayTextId</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">TL_ElementProperties.References</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">DynamicArray</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string"></Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">FrameReferences</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string"></Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">SortFlag</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">80</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">Storable</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">True</Single>
+                      </Value>
+                    </Entry>
+                  </Dictionary>
+                  <Single Name="ConvDone" Type="bool">True</Single>
+                </Single>
+                <Single Name="TypeNodeId" Type="short">102</Single>
+                <Single Name="TypeNodeIdLong" Type="long">363316305</Single>
+                <Single Name="LibraryId" Type="string">visuelems, 4.6.0.0 (system)</Single>
+                <Null Name="ElementId" />
+                <Single Name="DisplayTextId" Type="string">TL_ElementProperties.References</Single>
+                <Single Name="DescriptionTextID" Type="string">TL_ElementProperties.Desc_ReferencedVisus</Single>
+                <Single Name="DescriptionUseParent" Type="bool">False</Single>
+              </Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">3729828405</Single>
+              <List Name="Value" Type="System.Collections.ArrayList">
+                <Single Type="{9e842eb2-1463-4af2-b605-4fbb17044f94}" Method="IArchivable">
+                  <Single Name="FontStyle" Type="int">0</Single>
+                  <Single Name="AdditionalFontStyle" Type="ushort">0</Single>
+                  <Single Name="ExplicitColor" Type="int">-16777216</Single>
+                  <Single Name="CanonicalName" Type="string">Font-Standard</Single>
+                  <Single Name="FontName" Type="string">Arial</Single>
+                  <Single Name="DisplayName" Type="string"></Single>
+                  <Single Name="FontSize" Type="int">12</Single>
+                  <Single Name="ScriptIdentification" Type="int">0</Single>
+                  <Single Name="DoubleFontSize" Type="double">0</Single>
+                  <Single Name="NamedColor" Type="{fa491db2-51ff-4bc1-9cd0-ce8c94ff6216}" Method="IArchivable">
+                    <Single Name="Color" Type="int">-16777216</Single>
+                    <Single Name="CanonicalName" Type="string">Font-Default-Color</Single>
+                  </Single>
+                </Single>
+              </List>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">550940142</Single>
+              <Single Name="Value" Type="int">310</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1473355128</Single>
+              <Single Name="Value" Type="int">67</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">493260384</Single>
+              <Single Name="Value" Type="uint">4294967295</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">135947015</Single>
+              <Single Name="Value" Type="uint">4278190080</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">390574330</Single>
+              <Single Name="Value" Type="string"></Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2473092364</Single>
+              <Single Name="Value" Type="{f8db32ff-bdd5-49e9-9014-6d9a6dea5d8c}" Method="IArchivable">
+                <Single Name="VisuNodeReferenceGuid" Type="System.Guid">00000000-0000-0000-0000-000000000000</Single>
+                <Null Name="VisuNodeReference" />
+                <Single Name="VisNodeRefs33" Type="string">FR_UnitVisHeader</Single>
+                <List Name="TypeNodeChildren" Type="System.Collections.ArrayList">
+                  <Single Type="{f7e1e748-ea0f-4fcb-b563-94837ee17e8d}" Method="IArchivable">
+                    <Single Name="Flags" Type="long">2</Single>
+                    <Single Name="BasicTypeNodeValue" Type="string">iq_axVisConnectorValid</Single>
+                    <Single Name="BasicTypeNodeAcceptsExpression" Type="bool">True</Single>
+                    <Null Name="BasicTypeNodeFastAccess" />
+                    <Array Name="BasicTypeNodeEnumValues" Type="string" />
+                    <Null Name="EnumValueDisplayTextIds" />
+                    <Null Name="EnumValueVisibilityAttributeValues" />
+                    <Null Name="EnumValueLibraryId" />
+                    <Null Name="DynamicEnumMemberVisibilityCheckerTypeGuid" />
+                    <Null Name="EnumValueDisplayName" />
+                    <List Name="TypeNodeChildren" Type="System.Collections.ArrayList" />
+                    <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                      <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Reference</Single>
+                      <Single Name="QualifiedName" Type="string">ARRAY [0..ET_VisConnectors.LastIndex] OF BOOL</Single>
+                      <Single Name="Name" Type="string">ARRAY [0..ET_VisConnectors.LastIndex] OF BOOL</Single>
+                    </Single>
+                    <Single Name="TypeNodeName" Type="string">iq_axVisConnectorValid</Single>
+                    <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                      <Single Name="AttrFlags" Type="ulong">0</Single>
+                      <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData" />
+                      <Single Name="ConvDone" Type="bool">True</Single>
+                    </Single>
+                    <Single Name="TypeNodeId" Type="short">255</Single>
+                    <Single Name="TypeNodeIdLong" Type="long">1711086779</Single>
+                    <Null Name="LibraryId" />
+                    <Null Name="ElementId" />
+                    <Null Name="DisplayTextId" />
+                    <Null Name="DescriptionTextID" />
+                    <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                  </Single>
+                  <Single Type="{f7e1e748-ea0f-4fcb-b563-94837ee17e8d}" Method="IArchivable">
+                    <Single Name="Flags" Type="long">2</Single>
+                    <Single Name="BasicTypeNodeValue" Type="string">iq_fbVisManager</Single>
+                    <Single Name="BasicTypeNodeAcceptsExpression" Type="bool">True</Single>
+                    <Null Name="BasicTypeNodeFastAccess" />
+                    <Array Name="BasicTypeNodeEnumValues" Type="string" />
+                    <Null Name="EnumValueDisplayTextIds" />
+                    <Null Name="EnumValueVisibilityAttributeValues" />
+                    <Null Name="EnumValueLibraryId" />
+                    <Null Name="DynamicEnumMemberVisibilityCheckerTypeGuid" />
+                    <Null Name="EnumValueDisplayName" />
+                    <List Name="TypeNodeChildren" Type="System.Collections.ArrayList" />
+                    <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                      <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Reference</Single>
+                      <Single Name="QualifiedName" Type="string">SE_AFU.FB_VisApplicationManager&lt;(ET_VisConnectors.LastIndex)&gt;</Single>
+                      <Single Name="Name" Type="string">SE_AFU.FB_VisApplicationManager&lt;(ET_VisConnectors.LastIndex)&gt;</Single>
+                    </Single>
+                    <Single Name="TypeNodeName" Type="string">iq_fbVisManager</Single>
+                    <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                      <Single Name="AttrFlags" Type="ulong">0</Single>
+                      <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData" />
+                      <Single Name="ConvDone" Type="bool">True</Single>
+                    </Single>
+                    <Single Name="TypeNodeId" Type="short">256</Single>
+                    <Single Name="TypeNodeIdLong" Type="long">2002714637</Single>
+                    <Null Name="LibraryId" />
+                    <Null Name="ElementId" />
+                    <Null Name="DisplayTextId" />
+                    <Null Name="DescriptionTextID" />
+                    <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                  </Single>
+                  <Single Type="{f7e1e748-ea0f-4fcb-b563-94837ee17e8d}" Method="IArchivable">
+                    <Single Name="Flags" Type="long">2</Single>
+                    <Single Name="BasicTypeNodeValue" Type="string">iq_stVisConnectorsSpecific</Single>
+                    <Single Name="BasicTypeNodeAcceptsExpression" Type="bool">True</Single>
+                    <Null Name="BasicTypeNodeFastAccess" />
+                    <Array Name="BasicTypeNodeEnumValues" Type="string" />
+                    <Null Name="EnumValueDisplayTextIds" />
+                    <Null Name="EnumValueVisibilityAttributeValues" />
+                    <Null Name="EnumValueLibraryId" />
+                    <Null Name="DynamicEnumMemberVisibilityCheckerTypeGuid" />
+                    <Null Name="EnumValueDisplayName" />
+                    <List Name="TypeNodeChildren" Type="System.Collections.ArrayList" />
+                    <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                      <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Reference</Single>
+                      <Single Name="QualifiedName" Type="string">ST_VisConnectorsApplicationSpecific</Single>
+                      <Single Name="Name" Type="string">ST_VisConnectorsApplicationSpecific</Single>
+                    </Single>
+                    <Single Name="TypeNodeName" Type="string">iq_stVisConnectorsSpecific</Single>
+                    <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                      <Single Name="AttrFlags" Type="ulong">0</Single>
+                      <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData" />
+                      <Single Name="ConvDone" Type="bool">True</Single>
+                    </Single>
+                    <Single Name="TypeNodeId" Type="short">257</Single>
+                    <Single Name="TypeNodeIdLong" Type="long">1797599291</Single>
+                    <Null Name="LibraryId" />
+                    <Null Name="ElementId" />
+                    <Null Name="DisplayTextId" />
+                    <Null Name="DescriptionTextID" />
+                    <Single Name="DescriptionUseParent" Type="bool">False</Single>
+                  </Single>
+                </List>
+                <Single Name="TypeNodeType" Type="{b12a9636-e818-4598-ae0d-fb6a2446102c}" Method="IArchivable">
+                  <Single Name="TypeClass" Type="{16f7aa24-038f-444e-9d81-b001bc091d35}">Userdef</Single>
+                  <Single Name="QualifiedName" Type="string">IVisualisation</Single>
+                  <Single Name="Name" Type="string">IVisualisation</Single>
+                </Single>
+                <Single Name="TypeNodeName" Type="string">[0]</Single>
+                <Single Name="TypeNodeAttributes" Type="{c1464dbe-c10d-4717-be8f-63efe8638434}" Method="IArchivable">
+                  <Single Name="AttrFlags" Type="ulong">0</Single>
+                  <Dictionary Type="{02a85e84-ef2d-46fc-93f2-acb0bbff3eda}" Name="TypeNodeAttributesData">
+                    <Entry>
+                      <Key>
+                        <Single Type="string">conditionalshow</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">visu_elemdev</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">ieccodeconversion_useexistinginterface</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string">_3S.CoDeSys.VisuGenerated.IVisualisationIEC</Single>
+                      </Value>
+                    </Entry>
+                    <Entry>
+                      <Key>
+                        <Single Type="string">''NORMAL__COMMENT</Single>
+                      </Key>
+                      <Value>
+                        <Single Type="string"> interface contains additional methods to IVisualElement</Single>
+                      </Value>
+                    </Entry>
+                  </Dictionary>
+                  <Single Name="ConvDone" Type="bool">True</Single>
+                </Single>
+                <Single Name="TypeNodeId" Type="short">1</Single>
+                <Single Name="TypeNodeIdLong" Type="long">2473092364</Single>
+                <Null Name="LibraryId" />
+                <Null Name="ElementId" />
+                <Null Name="DisplayTextId" />
+                <Null Name="DescriptionTextID" />
+                <Single Name="DescriptionUseParent" Type="bool">False</Single>
+              </Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2597686782</Single>
+              <Single Name="Value" Type="bool">True</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1013868361</Single>
+              <Single Name="Value" Type="bool">True</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1711086779</Single>
+              <Single Name="Value" Type="string">iq_axVisConnectorValid</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">2002714637</Single>
+              <Single Name="Value" Type="string">iq_fbVisManager</Single>
+            </Single>
+            <Single Type="{c694e3a2-5c0b-4177-ab35-cb06bd5a6a02}" Method="IArchivable">
+              <Single Name="Id" Type="long">1797599291</Single>
+              <Single Name="Value" Type="string">iq_stVisConnectorsSpecific</Single>
+            </Single>
+          </List>
+        </Single>
+        <Single Name="VisualElementName" Type="string">Frame</Single>
+        <Single Name="VisualElementTypeName" Type="string">VisuFbFrame</Single>
+        <Single Name="VisualElementIsRectangle" Type="bool">True</Single>
+        <Single Name="VisualElementIdentifier" Type="string">GenElemInst_24</Single>
+        <Null Name="VisualElementOfflinePaintCommands" />
+        <Single Name="VisualElementFrameInformation" Type="{7fd6515d-f891-4717-b53f-b14197c6706c}" Method="IArchivable">
+          <List Name="ContainedGuids" Type="System.Collections.ArrayList" />
+          <List Name="ContainedVisualizations" Type="System.Collections.ArrayList" />
+          <Array Name="ContainedVisualizations33" Type="string">
+            <Single Type="string">FR_UnitVisHeader</Single>
+          </Array>
+        </Single>
+        <Dictionary Type="System.Collections.Hashtable" Name="VisualElementInputActions" />
+        <Single Name="VisualElementIdentification" Type="System.Guid">6f7c46db-df9c-4805-a32e-69ee718faa95</Single>
+        <Single Name="VisualElementOwningObjectGuid" Type="System.Guid">f8b84961-bcb9-44de-8c8e-948f905ef787</Single>
+        <Array Name="LMGuids" Type="System.Guid" />
+        <Dictionary Type="System.Collections.Hashtable" Name="SubElements" />
+        <Single Name="VisualElementId" Type="int">32</Single>
+        <List Name="UserManagementAccessRights" Type="System.Collections.ArrayList" />
+        <Single Name="AnimationDuration" Type="string">0</Single>
+        <Single Name="BringToForeground" Type="string"></Single>
+        <Single Name="ElementVersion" Type="byte">1</Single>
+        <Null Name="TabOrder" />
+      </Single>
+    </List>
+    <Single Name="BackgroundBitmapId" Type="string"></Single>
+    <Single Name="BackgroundColor" Type="int">16777215</Single>
+    <Single Name="Background" Type="{1038f12c-dd4b-4f96-87a3-a350fe8f3552}" Method="IArchivable">
+      <Null Name="BgGradient" />
+      <Null Name="BgNamedColor" />
+      <Single Name="BgBmpId" Type="string"></Single>
+      <Single Name="BgUseBmp" Type="bool">False</Single>
+      <Single Name="BgColor" Type="bool">False</Single>
+      <Single Name="BgUseColor" Type="int">16777215</Single>
+      <Single Name="BgUseGradient" Type="bool">False</Single>
+    </Single>
+    <Single Name="AllElementsHaveDynamicVisibility" Type="bool">False</Single>
+  </Single>
+  <Single Name="GeneratedLMMDescriptions" Type="{703465dc-4679-4ff2-bcc3-c57d0a204da3}" Method="IArchivable">
+    <Single Name="GeneratedVisuFbDescription" Type="{40d6dd8d-dfd0-493a-8e29-c9a35e1e6539}" Method="IArchivable">
+      <Dictionary Type="{7df88604-7ac5-4e36-91c4-55e4fdad3e68}" Name="FbMethods">
+        <Entry>
+          <Key>
+            <Single Type="string">AreAllElementsHidden</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">c17aaaed-552a-54fa-98b8-f5efbf2cfca5</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">ContainsPoint</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">8f6df941-4112-4691-b246-05737cc5d1ee</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">Destruct</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">7750c1e3-a4e1-4578-b35b-0bad8cdaf9ba</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">ElementInfo</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">9ea98d1f-64ce-4a1c-8b1d-3dbbd9dd74b1</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">FB_Exit</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">bc96d5f3-f5d2-45e7-b58f-03ed702bf424</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">FB_Reinit</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">e9432cab-d90b-4d9d-a644-079b87565305</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetCallerNamespace</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">73d46660-7c5e-55e8-bc89-983710118101</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetClientData</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">fc0d37bb-42fe-45cb-8b40-b9f8abc5222d</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetDialogInterface</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">d16bae19-1b84-4a8b-b43c-808333614092</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetDialogInterfaceSize</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">47bf332f-f739-40ef-8668-6ab45841dcbf</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetElementArray</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">9c8554b9-68ce-41e3-a0c3-f1fad6ff9ccf</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetElementIdArray</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">90f7d610-4711-4017-bd6c-3ba863c4471a</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetElementName</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">5b727d86-322b-4d93-b852-fe932c8abc83</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetInitializeVersion</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">859acc4d-8875-4122-bad1-af343744189d</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetInstance</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">061e8394-1e8e-459e-88be-a6465f0b4698</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetLocalUsergroup</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">7e3f0091-bb5c-475a-8980-c099e4d29c0a</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetName</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">15860b3e-0369-4222-9c44-d69cfb2aa7db</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetNamespace</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">c6e26954-5fb8-481a-b1c7-1c55d1c11195</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetResult</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">5596c9a2-357e-473f-9c37-c6c5c9bce8b6</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetSize</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">f35e9403-b2a8-4e68-ac0d-365025812d59</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetSurroundingRect</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">37426d4a-297a-4647-8fcb-06ed162d5cba</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetTabOrderIdArray</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">678f6131-922b-4e40-b3ae-f2162dec50f8</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetText</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">14eadd53-f5bb-47ed-8a45-c5181ee01541</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetTextProperties</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">a58bf8c1-4811-48c4-b3d7-a5fac657072c</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetTooltip</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">92ba70f2-c275-460a-9c5d-a8f4b5ce5524</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetTranslator</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">7b8ae999-5e88-49e7-9b92-4b29bae7f500</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetUpdateRects</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">98f6234e-d388-45f9-b312-626756d3ca11</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">HandleInput</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">a0e6b2a2-850f-4783-9eed-474ca5815468</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">HasInputAccess</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">49b7703b-dab2-4a10-91a4-40311282af3e</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">HasInputAccessIntern</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">3a2e9285-36af-4fb5-a6fd-0b1fc1cd7aee</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">HasVisibilityAccess</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">bb5f8256-bc89-451d-a9a6-e3338ce27827</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">HasVisibilityAccessIntern</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">24a7a247-ca03-4925-b5bd-d54f74596a46</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">Initialize</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">945da79e-12ee-4c28-889e-ba3280ef9a0f</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">IsAntialiasingInactive</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">c625942b-00f4-443e-84c1-ff244d251f5d</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">Paint</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">399965d1-b6dc-407a-ac7d-794a69937a82</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">SetClientData</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">9d6f8c81-3ba0-4b93-90f3-50d78d3d2b73</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">SetContainerSize</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">7813a05e-729f-4676-91ed-fb471ead49e8</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">SetDialogInterface</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">984979b0-8177-4f0c-8367-84c18f13c652</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">SetResult</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">c74e87fc-6847-450f-8e7d-eb50e97494fb</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">SetStaticState</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">0e10e667-e9e0-45d5-8d6b-ed578467fb46</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">SetVisuFlagsInternal</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">3749fe10-cef6-4c2a-bdd8-3feec2a30359</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">Update</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">8550164b-93a0-4582-8cb5-76439a615c8c</Single>
+          </Value>
+        </Entry>
+      </Dictionary>
+      <Dictionary Type="{7df88604-7ac5-4e36-91c4-55e4fdad3e68}" Name="FbProperties">
+        <Entry>
+          <Key>
+            <Single Type="string">__getContainer</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">9ccd6a81-4278-4f45-b06e-156e0c19decb</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">__getVisu</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">941712d8-27b3-4d9f-b2f8-c503d5f41aa7</Single>
+          </Value>
+        </Entry>
+      </Dictionary>
+      <Single Name="FbName" Type="string">NotImportant</Single>
+      <Single Name="FbGuid" Type="System.Guid">f8b84961-bcb9-44de-8c8e-948f905ef787</Single>
+    </Single>
+    <Single Name="GeneratedGlobalVisuVarsGuid" Type="System.Guid">a1a51f3f-dcbb-40c8-9d7b-e4ebcec29e62</Single>
+    <Single Name="GeneratedGlobalTheVisuVarlistGuid" Type="System.Guid">05ced1b1-7110-4484-a9bf-e716124231de</Single>
+    <Single Name="GeneratedGlobalVisuConstants" Type="System.Guid">5b1cf520-35ff-45bd-a0dc-3429cb7d7390</Single>
+    <Dictionary Type="System.Collections.Hashtable" Name="GeneratedAllElementsEntries" />
+    <Single Name="VisuRegDesc" Type="{40d6dd8d-dfd0-493a-8e29-c9a35e1e6539}" Method="IArchivable">
+      <Dictionary Type="{7df88604-7ac5-4e36-91c4-55e4fdad3e68}" Name="FbMethods">
+        <Entry>
+          <Key>
+            <Single Type="string">FB_Exit</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">c1771557-612b-43a1-8328-e0856c156907</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">FB_Init</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">87a19c6c-81d3-4ece-8136-9e7fa42d3288</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">FB_Reinit</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">d4776ec1-4140-476d-8f57-58341872c8a8</Single>
+          </Value>
+        </Entry>
+      </Dictionary>
+      <Dictionary Type="{7df88604-7ac5-4e36-91c4-55e4fdad3e68}" Name="FbProperties" />
+      <Single Name="FbName" Type="string">NotImportant</Single>
+      <Single Name="FbGuid" Type="System.Guid">bafed7c9-eb6d-42c4-bf60-47a82f764d34</Single>
+    </Single>
+    <Single Name="VisuRegisterGvl" Type="System.Guid">326406c7-595b-42ae-a41f-0933ba26d70c</Single>
+    <Null Name="SettingsPou" />
+    <Null Name="MemManPou" />
+    <Single Name="InputsPou" Type="{40d6dd8d-dfd0-493a-8e29-c9a35e1e6539}" Method="IArchivable">
+      <Dictionary Type="{7df88604-7ac5-4e36-91c4-55e4fdad3e68}" Name="FbMethods">
+        <Entry>
+          <Key>
+            <Single Type="string">abstrGetDefaultCursor</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">eb2c0ac0-891a-444e-8693-31d648123426</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">ExecuteDialogClosed</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">d0ea9824-c86e-4093-a222-653db678753e</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">ExecuteKeyDown</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">01dce3ca-9777-4c2a-834e-0f86f8d0f0b1</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">ExecuteKeyUp</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">86a23830-b060-49ab-879b-113c4ad50244</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">ExecuteLooseCapture</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">d3158971-c36b-484a-a3f1-1ab6169e54e8</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">ExecuteMouseClick</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">b444f6eb-e276-46fa-ab2d-6882e0c0c080</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">ExecuteMouseDblClick</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">a07a1351-2fe7-4cce-abd1-e4817f876e43</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">ExecuteMouseDown</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">3e5cc683-c401-4623-b860-2531339d716d</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">ExecuteMouseEnter</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">51ffc13a-6f85-47bb-a1fe-0c22215f4d69</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">ExecuteMouseLeave</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">2ea4e9fe-6af6-40cc-9117-86c4f534facf</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">ExecuteMouseMove</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">767baf39-5678-4ad9-955d-f403f1e859e6</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">ExecuteMouseUp</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">3fe10067-bfa8-4f31-8365-3493173b993b</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">ExecuteValueChanged</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">77ca0dc5-e4a6-4398-bb40-3da646959e3f</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">GetElementInfo</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">fb258f7f-cb08-4ad0-9903-b92d6c40ed2d</Single>
+          </Value>
+        </Entry>
+        <Entry>
+          <Key>
+            <Single Type="string">Initialize</Single>
+          </Key>
+          <Value>
+            <Single Type="System.Guid">dce5e705-dcad-4dc2-a6ce-b2652566e7e5</Single>
+          </Value>
+        </Entry>
+      </Dictionary>
+      <Dictionary Type="{7df88604-7ac5-4e36-91c4-55e4fdad3e68}" Name="FbProperties" />
+      <Single Name="FbName" Type="string">NotImportant</Single>
+      <Single Name="FbGuid" Type="System.Guid">8736b458-8052-41c1-b47c-d66e2d485ec3</Single>
+    </Single>
+    <Single Name="DialogDut" Type="System.Guid">2bffdb1d-d481-404c-b1bd-31f48d358e05</Single>
+  </Single>
+  <Single Name="LastUsedIdForIdentifier" Type="int">27</Single>
+  <Single Name="TextDocument" Type="{f3878285-8e4f-490b-bb1b-9acbb7eb04db}" Method="IArchivable">
+    <Single Name="TextBlobForSerialisation" Type="string">VAR_IN_OUT
+	iq_axVisConnectorValid : ARRAY[0..ET_VisConnectors.LastIndex] OF BOOL;
+	iq_fbVisManager        : SE_AFU.FB_VisApplicationManager&lt;ET_VisConnectors.LastIndex&gt;;
+	iq_stVisConnectorsSpecific     : ST_VisConnectorsApplicationSpecific;
+END_VAR
+</Single>
+    <Null Name="LineInfoPersistence" />
+  </Single>
+  <Single Name="GvlCreated" Type="bool">False</Single>
+  <Null Name="LMEntry" />
+  <Single Name="ProfileCompatibilityId" Type="long">4140216668</Single>
+  <Single Name="LMVerMinor" Type="int">0</Single>
+  <Single Name="LMVerMajor" Type="int">1</Single>
+  <Single Name="Hotkeys" Type="{6b108d46-58af-4e41-a3f4-174d8f160cc4}" Method="IArchivable">
+    <Single Name="IdMin" Type="long">481037385728</Single>
+    <Single Name="IdMax" Type="long">549755813887</Single>
+    <Single Name="Id" Type="long">481037385728</Single>
+    <Single Name="IdMask" Type="long">549754765312</Single>
+    <Single Name="IdStep" Type="long">1048576</Single>
+    <List2 Name="Inputs" />
+  </Single>
+  <Single Name="VisuSizeManager" Type="{5f612b0e-b404-455f-8177-27864e9f5332}" Method="IArchivable">
+    <Dictionary2 Name="Size">
+      <Entry>
+        <Key>
+          <Single Type="int">0</Single>
+        </Key>
+        <Value>
+          <Single Type="{6ad3e88f-aee2-4766-a7ea-a8790037ef51}" Method="IArchivable">
+            <Single Name="Width" Type="int">1024</Single>
+            <Single Name="Height" Type="int">655</Single>
+          </Single>
+        </Value>
+      </Entry>
+      <Entry>
+        <Key>
+          <Single Type="int">1</Single>
+        </Key>
+        <Value>
+          <Single Type="{6ad3e88f-aee2-4766-a7ea-a8790037ef51}" Method="IArchivable">
+            <Single Name="Width" Type="int">1025</Single>
+            <Single Name="Height" Type="int">656</Single>
+          </Single>
+        </Value>
+      </Entry>
+      <Entry>
+        <Key>
+          <Single Type="int">2</Single>
+        </Key>
+        <Value>
+          <Single Type="{6ad3e88f-aee2-4766-a7ea-a8790037ef51}" Method="IArchivable">
+            <Single Name="Width" Type="int">1025</Single>
+            <Single Name="Height" Type="int">656</Single>
+          </Single>
+        </Value>
+      </Entry>
+    </Dictionary2>
+    <Single Name="Version" Type="int">2</Single>
+  </Single>
+  <Single Name="FrameInterfaceDataModel" Type="{af53e824-e51f-4be1-b210-d001ef8efbd1}" Method="IArchivable">
+    <List2 Name="HierarchicalProperties" />
+  </Single>
+</Single>

@@ -1,0 +1,23 @@
+__METADATA__
+{
+  "v3Meta": {
+    "objectGuid": "7cc36230-3720-439c-bb4a-b737118478a5",
+    "objectTypeGuid": "2db5746d-d284-4425-9f7f-2663a34b0ebc",
+    "embeddedObjectTypeGuids": [
+      "a9ed5b7e-75c5-4651-af16-d2c27e98cb94"
+    ],
+    "properties": {},
+    "subObjects": {}
+  }
+}
+__DECLARATION__
+TYPE ST_410SubUnitAConfigData :
+STRUCT
+	uiUnitId            : UINT;
+	sUnitName           : STRING[80];
+	ifParentLoggerPoint : APL2.IF_LoggerPoint;
+	ifParentDiagHandler : ApDiag.IF_DiagHandlerAccess;
+	ifMasterAxis		: MOIN.IF_Axis;
+	ifAxis				: MOIN.IF_Axis;
+END_STRUCT
+END_TYPE

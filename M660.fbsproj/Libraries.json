@@ -1,0 +1,145 @@
+{
+  "references": {},
+  "placeholderOverrides": {},
+  "v3Meta": {
+    "objectName": null,
+    "objectGuid": "fe6db528-14c9-4493-aa39-e4c089029d32",
+    "objectTypeGuid": "adb5cb65-8e1d-4a00-b70a-375ea27582f3",
+    "embeddedObjectTypeGuids": [],
+    "properties": {},
+    "subObjects": {}
+  },
+  "libraryParameters": {},
+  "v3SystemLibraries": [
+    {
+      "namespace": "VisuElem3DPath",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "System_VisuElem3DPath",
+        "defaultResolution": "VisuElem3DPath, 4.7.0.0 (System)",
+        "resolverGuid": "2717eb6a-dd07-4c66-8d8d-cacebd7b18ae",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "VisuElemCamDisplayer",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "System_VisuElemCamDisplayer",
+        "defaultResolution": "VisuElemCamDisplayer, 4.7.0.0 (System)",
+        "resolverGuid": "2717eb6a-dd07-4c66-8d8d-cacebd7b18ae",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "VisuElemMeter",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "System_VisuElemMeter",
+        "defaultResolution": "VisuElemMeter, 4.9.0.0 (System)",
+        "resolverGuid": "2717eb6a-dd07-4c66-8d8d-cacebd7b18ae",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "VisuElems",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "System_VisuElems",
+        "defaultResolution": "VisuElems, 4.9.1.0 (System)",
+        "resolverGuid": "2717eb6a-dd07-4c66-8d8d-cacebd7b18ae",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "VisuElemsAlarm",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "System_VisuElemsAlarm",
+        "defaultResolution": "VisuElemsAlarm, 4.9.0.0 (System)",
+        "resolverGuid": "2717eb6a-dd07-4c66-8d8d-cacebd7b18ae",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "VisuElemsDateTime",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "System_VisuElemsDateTime",
+        "defaultResolution": "VisuElemsDateTime, 4.9.0.0 (System)",
+        "resolverGuid": "2717eb6a-dd07-4c66-8d8d-cacebd7b18ae",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "VisuElemsSpecialControls",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "System_VisuElemsSpecialControls",
+        "defaultResolution": "VisuElemsSpecialControls, 4.7.0.0 (System)",
+        "resolverGuid": "2717eb6a-dd07-4c66-8d8d-cacebd7b18ae",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "VisuElemsWinControls",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "System_VisuElemsWinControls",
+        "defaultResolution": "VisuElemsWinControls, 4.9.0.0 (System)",
+        "resolverGuid": "2717eb6a-dd07-4c66-8d8d-cacebd7b18ae",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "VisuElemTextEditor",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "System_VisuElemTextEditor",
+        "defaultResolution": "VisuElemTextEditor, 4.8.0.0 (System)",
+        "resolverGuid": "2717eb6a-dd07-4c66-8d8d-cacebd7b18ae",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "VisuElemTrace",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "System_VisuElemTrace",
+        "defaultResolution": "VisuElemTrace, 4.9.0.0 (System)",
+        "resolverGuid": "2717eb6a-dd07-4c66-8d8d-cacebd7b18ae",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "VisuElemXYChart",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "System_VisuElemXYChart",
+        "defaultResolution": "VisuElemXYChart, 4.8.0.0 (System)",
+        "resolverGuid": "2717eb6a-dd07-4c66-8d8d-cacebd7b18ae",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "VisuInputs",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "System_VisuInputs",
+        "defaultResolution": "VisuInputs, 4.7.0.0 (System)",
+        "resolverGuid": "2717eb6a-dd07-4c66-8d8d-cacebd7b18ae",
+        "allowUnqualifiedAccess": true
+      }
+    },
+    {
+      "namespace": "VisuNativeControl",
+      "libraryReference": {
+        "$type": "Placeholder",
+        "placeholder": "System_VisuNativeControl",
+        "defaultResolution": "VisuNativeControl, 4.9.0.0 (System)",
+        "resolverGuid": "2717eb6a-dd07-4c66-8d8d-cacebd7b18ae",
+        "allowUnqualifiedAccess": true
+      }
+    }
+  ]
+}

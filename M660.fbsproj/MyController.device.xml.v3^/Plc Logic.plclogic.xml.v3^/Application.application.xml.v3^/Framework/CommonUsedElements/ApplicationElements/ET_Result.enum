@@ -1,0 +1,35 @@
+__METADATA__
+{
+  "v3Meta": {
+    "objectGuid": "0c3c4b6a-f40a-475b-990e-1962189e8ed6",
+    "objectTypeGuid": "2db5746d-d284-4425-9f7f-2663a34b0ebc",
+    "embeddedObjectTypeGuids": [
+      "a9ed5b7e-75c5-4651-af16-d2c27e98cb94"
+    ],
+    "properties": {},
+    "subObjects": {}
+  }
+}
+__DECLARATION__
+{attribute 'qualified_only'}
+{attribute 'strict'}
+{attribute 'to_string'}
+TYPE ET_Result :
+(
+	Ok                          := 0,
+	EnableLost                  := 1,
+	PackMLStateInvalid			:= 2,
+	PackMLModeSwitchNotPossible := 3,
+	EStopButtonPressed			:= 4,
+	StopButtonPressed			:= 5,
+	ResetButtonPressed			:= 6,
+	StartButtonPressed			:= 7,
+	SubUnitNotAlligned			:= 8,
+	OperationModeInvalid		:= 9,
+	JogBackPressed				:= 10,
+	JogForwPressed				:= 11,
+
+	InterfaceInvalid			:= 20
+	
+);
+END_TYPE
