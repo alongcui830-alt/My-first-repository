@@ -1,0 +1,22 @@
+{
+  "title": "Branch1_M660",
+  "version": "0.0.0.0",
+  "author": "a5646",
+  "company": "",
+  "description": "",
+  "v3Meta": {
+    "objectGuid": "11c0fc3a-9bcf-4dd8-ac38-efb93363e521",
+    "objectTypeGuid": "085afe48-c5d8-4ea5-ab0d-b35701fa6009",
+    "embeddedObjectTypeGuids": [],
+    "properties": {
+      "schneiderElectric.Platform.Adaptions.ProjectInformation.ExtendedProjectInfoObjectProperty": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Single xml:space=\"preserve\" Type=\"{ffd23795-a4b8-48a8-baac-ac7e58714ffb}\" Method=\"IArchivable\"><Null Name=\"ImageData\" /><Single Name=\"CreateDate\" Type=\"System.DateTime\">04/21/2026 15:21:46</Single></Single>"
+    },
+    "subObjects": {}
+  },
+  "generateProjectInfoFunctions": true,
+  "customProperties": {
+    "Git:IsGitManaged": false,
+    "Project": "",
+    "Svn:IsSvnManaged": false
+  }
+}

@@ -1,0 +1,31 @@
+__V3_META__
+{
+  "objectGuid": "7d9e4145-a7bd-48f4-89b2-7dd2dedb377b",
+  "objectTypeGuid": "639b491f-5557-464c-af91-1471bac9f549",
+  "embeddedObjectTypeGuids": [],
+  "properties": {},
+  "subObjects": {}
+}
+__V3_CONTENT__
+<?xml version="1.0" encoding="utf-8"?>
+<Single xml:space="preserve" Type="{639b491f-5557-464c-af91-1471bac9f549}" Method="IArchivable">
+  <Single Name="DynamicMemory" Type="int">10000000</Single>
+  <Single Name="DownloadContent" Type="bool">False</Single>
+  <Single Name="StopParentAppsOnException" Type="bool">False</Single>
+  <Single Name="GuidNetVarGVL" Type="System.Guid">f65b64ee-a4fd-4314-bfbf-55285dd59619</Single>
+  <Single Name="GuidMemSettings" Type="System.Guid">00000000-0000-0000-0000-000000000000</Single>
+  <Null Name="BootAppSettings" />
+  <Single Name="OverrideTargetMemorySizes" Type="bool">False</Single>
+  <Single Name="TargetInputSize" Type="int">0</Single>
+  <Single Name="TargetOutputSize" Type="int">0</Single>
+  <Single Name="TargetMemoryize" Type="int">0</Single>
+  <Single Name="StaticSize" Type="int">0</Single>
+  <Single Name="AllowUserDefinedStaticSize" Type="bool">True</Single>
+  <Single Name="X509CommonName" Type="string"></Single>
+  <Single Name="X509EncryptionThumbprint" Type="string"></Single>
+  <Null Name="X509EncryptionThumbprints" />
+  <Single Name="SignDownloadWithX509Certificate" Type="bool">False</Single>
+  <Single Name="FirmCode" Type="uint">0</Single>
+  <Single Name="ProductCode" Type="uint">0</Single>
+  <Single Name="KeepOnParentOnlineChange" Type="bool">False</Single>
+</Single>
